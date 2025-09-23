@@ -1,0 +1,21 @@
+# AI Vision OCR Requirements
+# This file contains Python packages needed specifically for the AI vision OCR script (ai_vision_ocr.py)
+
+# OpenAI API for GPT-4 Vision
+openai>=1.0.0
+
+# Image processing and manipulation
+Pillow>=10.0.0
+
+# Note: You need an OpenAI API key to use this script
+# 1. Sign up at https://platform.openai.com/
+# 2. Create an API key in your dashboard
+# 3. Set the environment variable:
+#    export OPENAI_API_KEY='your-api-key-here'
+#
+# To install these requirements:
+# pip install -r requirements_ai_vision.txt
+#
+# Estimated costs (as of 2024 - verify current rates):
+# - GPT-4o: $0.005 per 1K input tokens, $0.015 per 1K output tokens
+# - Typical cost per image: $0.01 - $0.05 USD depending on image complexity
