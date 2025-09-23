@@ -1,0 +1,58 @@
+OCR + AI Correction Comparison Report
+==================================================
+
+Report Generated: 2025-09-23 08:55:57
+Total Images Processed: 4
+
+[1] dupickens_b-1_217.jpg
+OCR Confidence: 47.30%
+Original Length: 378 characters
+Corrected Length: 442 characters
+
+Original OCR Preview:
+Met cna  e? | fet ex le  a AX Chom,, 6.02 chem  timrenl of 2 gelllerr tnt bo «  7  lee  Le. wel fheraache p Al das, off baty 1 VL es Celle ars Lh ees det Me bl way of biel Chan Cees 7  “aul - & Meliii...
+
+Corrected Text Preview:
+Met   can a    e? | fet ex le    a AX Chom, 6.02 chem    timber of 2 gentlemen that be    7    lee    Le. well thereache p   All das, off baty 1   VL es   Celle ars Lh ees   det Me bl way of biel   Ch...
+
+--------------------------------------------------
+
+[2] dupickens_b-1_218.jpg
+OCR Confidence: 69.29%
+Original Length: 62 characters
+Corrected Length: 64 characters
+
+Original OCR Preview:
+(i thes Ue bee b. auallen to  — : ot  VREMMAC Ge hegre Mitt Gd
+
+Corrected Text Preview:
+(i) These Ue bee b. auallen to  — : ot  VREMMAC Ge hegre Mitt Gd
+
+--------------------------------------------------
+
+[3] dupickens_b-1_219.jpg
+OCR Confidence: 66.98%
+Original Length: 137 characters
+Corrected Length: 136 characters
+
+Original OCR Preview:
+EL  We  10% 450 $06 Va ZL 1080 le Telex MOC Mors 700  Carreee 2 J « ale Yeltich Noble Ln bguly  vat Mhare ¢  srarrcage Jellen: on tras 4,
+
+Corrected Text Preview:
+EL  We  10% 450 $06 Va ZL 1080 le Telex MOC Mors 700  Carree 2 J « ale Yeltich Noble Ln bguly  vat Mhare ¢  srarrcage Jellen: on tras 4,
+
+--------------------------------------------------
+
+[4] dupickens_b-1_240.jpg
+OCR Confidence: 46.75%
+Original Length: 36 characters
+Corrected Length: 27 characters
+
+Original OCR Preview:
+ENTERS  Lot he folla.  4 ecght hiv a
+
+Corrected Text Preview:
+ENTERS  Lot  the following.
+
+--------------------------------------------------
+

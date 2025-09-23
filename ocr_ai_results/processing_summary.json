@@ -1,0 +1,28 @@
+{
+  "processing_summary": {
+    "total_input_tokens": 1242,
+    "total_output_tokens": 257,
+    "total_tokens": 1499,
+    "total_requests": 4,
+    "total_cost": 0.0003405,
+    "ocr_time": 2.9562900066375732,
+    "ai_time": 10.959541320800781,
+    "total_time": 13.915831327438354,
+    "model_breakdown": {
+      "gpt-4o-mini": {
+        "input": 1242,
+        "output": 257,
+        "requests": 4
+      }
+    }
+  },
+  "images_processed": [
+    "dupickens_b-1_217.jpg",
+    "dupickens_b-1_218.jpg",
+    "dupickens_b-1_219.jpg",
+    "dupickens_b-1_240.jpg"
+  ],
+  "timestamp": "2025-09-23 08:55:57",
+  "estimated_cost_usd": 0.0003405,
+  "avg_ocr_confidence": 57.57769734019734
+}

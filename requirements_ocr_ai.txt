@@ -1,0 +1,43 @@
+# Hybrid OCR + AI Correction Requirements
+# This file contains Python packages needed for the hybrid OCR script (hybrid_ocr_ai.py)
+# that combines Tesseract OCR with OpenAI's text correction capabilities
+
+# Traditional OCR functionality
+pytesseract>=0.3.10
+
+# OpenAI API for text correction
+openai>=1.0.0
+
+# Image processing and manipulation
+Pillow>=10.0.0
+
+# Additional packages that may be useful for image preprocessing
+# Uncomment if needed for advanced image processing
+# opencv-python>=4.8.0
+# numpy>=1.24.0
+
+# System Requirements:
+# 1. Tesseract OCR binary must be installed:
+#    - macOS: brew install tesseract
+#    - Ubuntu/Debian: sudo apt-get install tesseract-ocr
+#    - Windows: Download from https://github.com/UB-Mannheim/tesseract/wiki
+#
+# 2. OpenAI API key required:
+#    - Sign up at https://platform.openai.com/
+#    - Create an API key in your dashboard
+#    - Set environment variable: export OPENAI_API_KEY='your-api-key-here'
+#
+# To install these requirements:
+# pip install -r requirements_ocr_ai.txt
+#
+# Estimated costs (as of 2024 - verify current rates):
+# - GPT-4o-mini: $0.00015 per 1K input tokens, $0.0006 per 1K output tokens
+# - GPT-4o: $0.005 per 1K input tokens, $0.015 per 1K output tokens
+# - Typical cost per image correction: $0.001 - $0.01 USD (much cheaper than full AI vision)
+#
+# Benefits of this hybrid approach:
+# - Fast initial extraction with Tesseract
+# - Intelligent error correction with AI
+# - Lower cost than pure AI vision approach
+# - Better accuracy than pure Tesseract OCR
+# - Preserves historical context and meaning
