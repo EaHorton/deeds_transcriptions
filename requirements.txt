@@ -1,0 +1,26 @@
+# OCR Processing Requirements
+# This file contains all the Python packages needed to run the OCR processor scripts
+
+# Traditional OCR functionality (for ocr_processor.py)
+pytesseract>=0.3.10
+
+# AI Vision OCR functionality (for ai_vision_ocr.py)
+openai>=1.0.0
+
+# Image processing (used by both scripts)
+Pillow>=10.0.0
+
+# Additional packages that may be useful for image preprocessing
+# Uncomment if needed for advanced image processing
+# opencv-python>=4.8.0
+# numpy>=1.24.0
+
+# Notes:
+# For traditional OCR (ocr_processor.py), you also need Tesseract OCR binary:
+# - macOS: brew install tesseract
+# - Ubuntu/Debian: sudo apt-get install tesseract-ocr
+# - Windows: Download from https://github.com/UB-Mannheim/tesseract/wiki
+#
+# For AI Vision OCR (ai_vision_ocr.py), you need an OpenAI API key:
+# - Sign up at https://platform.openai.com/
+# - Set environment variable: export OPENAI_API_KEY='your-key-here'
