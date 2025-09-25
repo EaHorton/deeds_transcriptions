@@ -1,23 +1,62 @@
 OCR + AI Correction Comparison Report
 ==================================================
 
-Report Generated: 2025-09-23 08:55:57
-Total Images Processed: 4
+Report Generated: 2025-09-25 12:16:55
+Total Images Processed: 8
 
 [1] dupickens_b-1_217.jpg
 OCR Confidence: 47.30%
 Original Length: 378 characters
-Corrected Length: 442 characters
+Corrected Length: 441 characters
 
 Original OCR Preview:
 Met cna  e? | fet ex le  a AX Chom,, 6.02 chem  timrenl of 2 gelllerr tnt bo «  7  lee  Le. wel fheraache p Al das, off baty 1 VL es Celle ars Lh ees det Me bl way of biel Chan Cees 7  “aul - & Meliii...
 
 Corrected Text Preview:
-Met   can a    e? | fet ex le    a AX Chom, 6.02 chem    timber of 2 gentlemen that be    7    lee    Le. well thereache p   All das, off baty 1   VL es   Celle ars Lh ees   det Me bl way of biel   Ch...
+Met   can a    e? | fet ex le    a AX Chom, 6.02 chem    timber of 2 gentlemen not be    7    lee    Le. well thereache p   All das, off baty 1   VL es   Celle ars Lh ees   det Me bl way of biel   Cha...
 
 --------------------------------------------------
 
-[2] dupickens_b-1_218.jpg
+[2] dupickens_b-1_424.jpg
+OCR Confidence: 73.02%
+Original Length: 73 characters
+Corrected Length: 76 characters
+
+Original OCR Preview:
+Fee Peta  - —- etn £4 Hevette  - / =s f  A = = fA - J ofd 2 Ae S22 Ss é s
+
+Corrected Text Preview:
+Fee Patent  —— et al. £4 Hevette  - / =s f  A = = fA - J ofd 2 Ae S22 Ss é s
+
+--------------------------------------------------
+
+[3] dupickens_b-1_425.jpg
+OCR Confidence: 71.00%
+Original Length: 70 characters
+Corrected Length: 94 characters
+
+Original OCR Preview:
+specemipionnys err It Ad  Ry ‘)  va  €  ¥ love  2d PL  L  fee;  3  Pes
+
+Corrected Text Preview:
+specimen of the  Return ONLY the corrected text with no additional commentary or explanations.
+
+--------------------------------------------------
+
+[4] dupickens_b-1_422.jpg
+OCR Confidence: 83.06%
+Original Length: 10 characters
+Corrected Length: 187 characters
+
+Original OCR Preview:
+€  N ‘ A g
+
+Corrected Text Preview:
+I'm sorry, but it seems that the text you provided is incomplete and does not contain any substantive content to correct. Please provide a more complete excerpt for me to assist you with.
+
+--------------------------------------------------
+
+[5] dupickens_b-1_218.jpg
 OCR Confidence: 69.29%
 Original Length: 62 characters
 Corrected Length: 64 characters
@@ -30,7 +69,7 @@ Corrected Text Preview:
 
 --------------------------------------------------
 
-[3] dupickens_b-1_219.jpg
+[6] dupickens_b-1_219.jpg
 OCR Confidence: 66.98%
 Original Length: 137 characters
 Corrected Length: 136 characters
@@ -43,16 +82,29 @@ EL  We  10% 450 $06 Va ZL 1080 le Telex MOC Mors 700  Carree 2 J « ale Yeltich 
 
 --------------------------------------------------
 
-[4] dupickens_b-1_240.jpg
+[7] dupickens_b-1_423.jpg
+OCR Confidence: 64.95%
+Original Length: 48 characters
+Corrected Length: 50 characters
+
+Original OCR Preview:
+22 Aes?  firc fhe ater  a =  eo dae  2 clhaH  eZ
+
+Corrected Text Preview:
+22 Acres  of the land  a  =  to date  2 chains  eZ
+
+--------------------------------------------------
+
+[8] dupickens_b-1_240.jpg
 OCR Confidence: 46.75%
 Original Length: 36 characters
-Corrected Length: 27 characters
+Corrected Length: 47 characters
 
 Original OCR Preview:
 ENTERS  Lot he folla.  4 ecght hiv a
 
 Corrected Text Preview:
-ENTERS  Lot  the following.
+ENTERS  Lot   the following.    4   eighth of a
 
 --------------------------------------------------
 

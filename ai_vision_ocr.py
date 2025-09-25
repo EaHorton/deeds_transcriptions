@@ -278,6 +278,32 @@ def save_usage_summary(tracker: TokenTracker, output_dir: str, image_files: List
                 f.write(f"  Output tokens: {usage['output']:,}\n")
                 f.write(f"  Cost: ${model_cost:.4f}\n\n")
 
+def find_dupickens_folders(base_dir: Path) -> List[Path]:
+    """
+    Find all dupickens subfolders that contain images directories.
+    
+    Args:
+        base_dir (Path): Base directory to search in
+        
+    Returns:
+        List[Path]: List of dupickens subfolder paths
+    """
+    dupickens_folders = []
+    dupickens_main = base_dir / "dupickens"
+    
+    if not dupickens_main.exists():
+        print(f"Error: dupickens folder not found at {dupickens_main}")
+        return []
+    
+    # Find all subfolders that contain images directories
+    for item in dupickens_main.iterdir():
+        if item.is_dir() and not item.name.startswith('.'):
+            images_dir = item / "images"
+            if images_dir.exists():
+                dupickens_folders.append(item)
+    
+    return sorted(dupickens_folders)
+
 def main():
     """Main function to process all images with AI vision."""
     
@@ -295,78 +321,129 @@ def main():
     
     # Define paths
     base_dir = Path(__file__).parent
-    images_dir = base_dir / "dupickens" / "dupickens_b-1" / "images"
-    output_dir = base_dir / "ocr_results_ai_vision"
+    base_output_dir = base_dir / "ocr_results_ai_vision"
     
     print("Starting AI Vision OCR processing...")
-    print(f"Images directory: {images_dir}")
-    print(f"Output directory: {output_dir}")
+    print(f"Base directory: {base_dir}")
+    print(f"Base output directory: {base_output_dir}")
     
-    # Check if images directory exists
-    if not images_dir.exists():
-        print(f"Error: Images directory not found: {images_dir}")
+    # Find all dupickens folders
+    dupickens_folders = find_dupickens_folders(base_dir)
+    
+    if not dupickens_folders:
+        print("No dupickens subfolders with images directories found.")
         return
     
-    # Get all image files
-    image_extensions = {'.jpg', '.jpeg', '.png', '.tiff', '.bmp', '.webp'}
-    image_files = [f for f in images_dir.iterdir() 
-                   if f.is_file() and f.suffix.lower() in image_extensions]
+    print(f"Found {len(dupickens_folders)} dupickens subfolders to process:")
+    for folder in dupickens_folders:
+        print(f"  - {folder.name}")
+    print()
     
-    if not image_files:
-        print("No image files found in the directory.")
-        return
+    # Process each dupickens folder
+    all_results = {}
+    total_start_time = time.time()
     
-    print(f"Found {len(image_files)} image files:")
-    for img_file in image_files:
-        print(f"  - {img_file.name}")
-    
-    # Process each image
-    print(f"\nProcessing images with AI Vision...")
-    start_time = time.time()
-    
-    for i, img_file in enumerate(image_files, 1):
-        print(f"\n[{i}/{len(image_files)}] Processing: {img_file.name}")
+    for folder_index, dupickens_folder in enumerate(dupickens_folders, 1):
+        folder_name = dupickens_folder.name
+        images_dir = dupickens_folder / "images"
+        output_dir = base_output_dir / folder_name
         
-        # Extract text using AI vision
-        transcribed_text = extract_text_with_ai_vision(
-            str(img_file), client, tracker, model="gpt-4o"
-        )
+        print(f"[{folder_index}/{len(dupickens_folders)}] Processing {folder_name}...")
+        print(f"  Images directory: {images_dir}")
+        print(f"  Output directory: {output_dir}")
         
-        # Save transcription
-        output_file = save_transcription(img_file.name, transcribed_text, str(output_dir))
+        # Get all image files for this folder
+        image_extensions = {'.jpg', '.jpeg', '.png', '.tiff', '.bmp', '.webp'}
+        image_files = [f for f in images_dir.iterdir() 
+                       if f.is_file() and f.suffix.lower() in image_extensions]
         
-        print(f"  Saved to: {Path(output_file).name}")
-        print(f"  Text length: {len(transcribed_text)} characters")
+        if not image_files:
+            print(f"  No image files found in {images_dir}")
+            print()
+            continue
         
-        # Show preview of transcribed text
-        if transcribed_text and not transcribed_text.startswith('[ERROR'):
-            preview = transcribed_text[:150].replace('\n', ' ').strip()
-            print(f"  Preview: {preview}{'...' if len(transcribed_text) > 150 else ''}")
+        print(f"  Found {len(image_files)} image files:")
+        for img_file in image_files:
+            print(f"    - {img_file.name}")
+        print()
         
-        # Small delay to respect API rate limits
-        if i < len(image_files):
-            time.sleep(1)
+        # Process each image in this folder
+        folder_results = []
+        
+        for i, img_file in enumerate(image_files, 1):
+            print(f"  [{i}/{len(image_files)}] Processing: {img_file.name}")
+            
+            # Extract text using AI vision
+            transcribed_text = extract_text_with_ai_vision(
+                str(img_file), client, tracker, model="gpt-4o"
+            )
+            
+            # Save transcription
+            output_file = save_transcription(img_file.name, transcribed_text, str(output_dir))
+            
+            print(f"    Saved to: {Path(output_file).name}")
+            print(f"    Text length: {len(transcribed_text)} characters")
+            
+            # Show preview of transcribed text
+            if transcribed_text and not transcribed_text.startswith('[ERROR'):
+                preview = transcribed_text[:150].replace('\n', ' ').strip()
+                print(f"    Preview: {preview}{'...' if len(transcribed_text) > 150 else ''}")
+            
+            folder_results.append({
+                'image': img_file.name,
+                'text': transcribed_text,
+                'output_file': output_file
+            })
+            
+            # Small delay to respect API rate limits
+            if i < len(image_files):
+                time.sleep(1)
+        
+        # Store results for this folder
+        all_results[folder_name] = {
+            'folder_path': dupickens_folder,
+            'images_processed': len(folder_results),
+            'results': folder_results
+        }
+        
+        print(f"  Completed {folder_name}: {len(folder_results)} images processed")
+        print()
     
     # Calculate and display final summary
     end_time = time.time()
-    processing_time = end_time - start_time
+    processing_time = end_time - total_start_time
     summary = tracker.get_summary()
     
-    print(f"\n" + "=" * 60)
+    # Calculate totals
+    total_images = sum(data['images_processed'] for data in all_results.values())
+    
+    print(f"\n" + "=" * 70)
     print("AI Vision OCR Processing Complete!")
-    print("=" * 60)
-    print(f"Images processed: {len(image_files)}")
+    print("=" * 70)
+    print(f"Dupickens folders processed: {len(all_results)}")
+    print(f"Total images processed: {total_images}")
     print(f"Processing time: {processing_time:.1f} seconds")
     print(f"Total API requests: {summary['total_requests']}")
     print(f"Total tokens used: {summary['total_tokens']:,}")
     print(f"  - Input tokens: {summary['total_input_tokens']:,}")
     print(f"  - Output tokens: {summary['total_output_tokens']:,}")
     print(f"Estimated cost: ${summary['total_cost']:.4f} USD")
-    print(f"\nResults saved in: {output_dir}")
+    print(f"\nResults saved in: {base_output_dir}")
     
-    # Save detailed usage summary
-    save_usage_summary(tracker, str(output_dir), [str(f) for f in image_files])
-    print(f"Usage summary saved to: usage_summary.txt and usage_summary.json")
+    # Show folder breakdown
+    print("\nFolder Processing Summary:")
+    print("-" * 30)
+    for folder_name, data in all_results.items():
+        print(f"{folder_name}: {data['images_processed']} images processed")
+    
+    # Save detailed usage summary for each folder and overall
+    all_image_files = []
+    for folder_data in all_results.values():
+        for result in folder_data['results']:
+            all_image_files.append(result['image'])
+    
+    save_usage_summary(tracker, str(base_output_dir), all_image_files)
+    print(f"Usage summary saved to: {base_output_dir / 'usage_summary.txt'} and {base_output_dir / 'usage_summary.json'}")
 
 if __name__ == "__main__":
     main()

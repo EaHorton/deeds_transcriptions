@@ -1,31 +1,31 @@
 Hybrid OCR + AI Correction - Processing Summary
 ==================================================
 
-Processing Date: 2025-09-23 08:55:57
-Images Processed: 4
-Total API Requests: 4
+Processing Date: 2025-09-25 12:16:55
+Images Processed: 8
+Total API Requests: 8
 
 Processing Time:
 ----------------
-OCR Processing: 3.0 seconds
-AI Correction: 11.0 seconds
-Total Time: 13.9 seconds
+OCR Processing: 26.6 seconds
+AI Correction: 15.0 seconds
+Total Time: 41.6 seconds
 
 Token Usage:
 ------------
-Input Tokens:  1,242
-Output Tokens: 257
-Total Tokens:  1,499
+Input Tokens:  2,308
+Output Tokens: 373
+Total Tokens:  2,681
 
-Estimated Cost: $0.0003 USD
+Estimated Cost: $0.0006 USD
 
-Average OCR Confidence: 57.58%
+Average OCR Confidence: 65.29%
 
 Model Breakdown:
 ----------------
 gpt-4o-mini:
-  Requests: 4
-  Input tokens: 1,242
-  Output tokens: 257
-  Cost: $0.0003
+  Requests: 8
+  Input tokens: 2,308
+  Output tokens: 373
+  Cost: $0.0006
 

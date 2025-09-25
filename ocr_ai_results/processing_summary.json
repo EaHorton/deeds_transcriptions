@@ -1,28 +1,32 @@
 {
   "processing_summary": {
-    "total_input_tokens": 1242,
-    "total_output_tokens": 257,
-    "total_tokens": 1499,
-    "total_requests": 4,
-    "total_cost": 0.0003405,
-    "ocr_time": 2.9562900066375732,
-    "ai_time": 10.959541320800781,
-    "total_time": 13.915831327438354,
+    "total_input_tokens": 2308,
+    "total_output_tokens": 373,
+    "total_tokens": 2681,
+    "total_requests": 8,
+    "total_cost": 0.00057,
+    "ocr_time": 26.584148645401,
+    "ai_time": 14.974804162979126,
+    "total_time": 41.55895280838013,
     "model_breakdown": {
       "gpt-4o-mini": {
-        "input": 1242,
-        "output": 257,
-        "requests": 4
+        "input": 2308,
+        "output": 373,
+        "requests": 8
       }
     }
   },
   "images_processed": [
     "dupickens_b-1_217.jpg",
+    "dupickens_b-1_424.jpg",
+    "dupickens_b-1_425.jpg",
+    "dupickens_b-1_422.jpg",
     "dupickens_b-1_218.jpg",
     "dupickens_b-1_219.jpg",
+    "dupickens_b-1_423.jpg",
     "dupickens_b-1_240.jpg"
   ],
-  "timestamp": "2025-09-23 08:55:57",
-  "estimated_cost_usd": 0.0003405,
-  "avg_ocr_confidence": 57.57769734019734
+  "timestamp": "2025-09-25 12:16:55",
+  "estimated_cost_usd": 0.00057,
+  "avg_ocr_confidence": 65.29345995058648
 }

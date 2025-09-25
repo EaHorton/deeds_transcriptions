@@ -1,8 +1,8 @@
 OCR Processing Summary
 ==============================
 
-Total Images Processed: 4
-Average Confidence Score: 57.58%
+Total Images Processed: 8
+Average Confidence Score: 65.29%
 
 Individual Results:
 --------------------
@@ -11,6 +11,25 @@ dupickens_b-1_217.jpg: 47.30% confidence
   Text preview: Met
 cnae?  fet ex lea AX Chom,, 6.02 chemtimrenl of 2 gelllerr tnt bo 7leeLe. wel fheraache p
 Al das...
+
+dupickens_b-1_424.jpg: 73.02% confidence
+  Text length: 62 characters
+  Text preview: Fee Peta- -
+etn 4 Hevette- / s fA   fA -
+J ofd 2 Ae S22 Ss é
+s
+
+dupickens_b-1_425.jpg: 71.00% confidence
+  Text length: 49 characters
+  Text preview: specemipionnys err It AdRy
+)va love2d PLLfee;3Pes
+
+dupickens_b-1_422.jpg: 83.06% confidence
+  Text length: 6 characters
+  Text preview: N
+
+A
+g
 
 dupickens_b-1_218.jpg: 69.29% confidence
   Text length: 57 characters
@@ -26,6 +45,11 @@ ZL
 Telex MOC Mors 700Carreee 2 J
  ale
 Yeltich Noble Ln bgulyvat Mhare srarr...
+
+dupickens_b-1_423.jpg: 64.95% confidence
+  Text length: 37 characters
+  Text preview: 22 Aes?firc fhe atera
+eo dae2 clhaHeZ
 
 dupickens_b-1_240.jpg: 46.75% confidence
   Text length: 32 characters
