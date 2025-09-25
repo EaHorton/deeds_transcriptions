@@ -1,0 +1,33 @@
+# PDF to JPG Conversion Requirements
+# This file contains Python packages needed for the PDF conversion script (pdf_to_jpg_converter.py)
+
+# PDF processing and conversion
+pdf2image>=3.1.0
+
+# Image processing and manipulation
+Pillow>=10.0.0
+
+# System Requirements:
+# The pdf2image package requires poppler-utils to be installed on your system:
+#
+# macOS:
+#   brew install poppler
+#
+# Ubuntu/Debian:
+#   sudo apt-get update
+#   sudo apt-get install poppler-utils
+#
+# Windows:
+#   Download poppler from: https://poppler.freedesktop.org/
+#   Extract and add the bin folder to your system PATH
+#
+# To install these Python requirements:
+# pip install -r requirements_pdf_conversion.txt
+#
+# Features of the conversion script:
+# - Processes all dupickens subfolders automatically
+# - Converts PDF files to high-quality JPG images (300 DPI)
+# - Handles multi-page PDFs (creates separate JPG for each page)
+# - Skips existing JPG files to avoid duplicate work
+# - Provides detailed progress reporting and error handling
+# - Optimizes JPEG quality for best file size/quality balance
