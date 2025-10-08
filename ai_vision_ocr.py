@@ -235,8 +235,12 @@ def save_usage_summary(tracker: TokenTracker, output_dir: str, image_files: List
     """
     summary = tracker.get_summary()
     
+    # Create summaries subdirectory
+    summaries_dir = os.path.join(output_dir, "summaries")
+    os.makedirs(summaries_dir, exist_ok=True)
+    
     # Save as JSON
-    json_file = os.path.join(output_dir, "usage_summary.json")
+    json_file = os.path.join(summaries_dir, "usage_summary.json")
     with open(json_file, 'w', encoding='utf-8') as f:
         json.dump({
             'processing_summary': summary,
@@ -246,7 +250,7 @@ def save_usage_summary(tracker: TokenTracker, output_dir: str, image_files: List
         }, f, indent=2)
     
     # Save as readable text
-    text_file = os.path.join(output_dir, "usage_summary.txt")
+    text_file = os.path.join(summaries_dir, "usage_summary.txt")
     with open(text_file, 'w', encoding='utf-8') as f:
         f.write("AI Vision OCR - Usage and Cost Summary\n")
         f.write("=" * 40 + "\n\n")
@@ -443,7 +447,7 @@ def main():
             all_image_files.append(result['image'])
     
     save_usage_summary(tracker, str(base_output_dir), all_image_files)
-    print(f"Usage summary saved to: {base_output_dir / 'usage_summary.txt'} and {base_output_dir / 'usage_summary.json'}")
+    print(f"Usage summary saved to: {base_output_dir / 'summaries' / 'usage_summary.txt'} and {base_output_dir / 'summaries' / 'usage_summary.json'}")
 
 if __name__ == "__main__":
     main()

@@ -1,10 +1,10 @@
 Single Image AI Vision OCR - Processing Summary
 ==================================================
 
-Processing Date: 2025-10-08 13:12:43
+Processing Date: 2025-10-08 13:17:11
 Image Processed: dupickens_b-1_422.jpg
 Full Path: /Users/eahorton/Downloads/deeds_unbound/dupickens/dupickens_b-1/images/dupickens_b-1_422.jpg
-Processing Time: 163.43 seconds
+Processing Time: 200.89 seconds
 
 Token Usage:
 ------------

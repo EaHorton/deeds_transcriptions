@@ -399,8 +399,10 @@ def main():
     print("Saving transcription...")
     output_file = save_transcription(image_path, transcribed_text, output_dir)
     
-    # Save usage summary
-    summary_file = Path(output_file).parent / f"{Path(image_path).stem}_summary.txt"
+    # Save usage summary in dedicated summaries subfolder
+    summary_dir = Path(output_file).parent / "summaries"
+    summary_dir.mkdir(exist_ok=True)
+    summary_file = summary_dir / f"{Path(image_path).stem}_summary.txt"
     save_usage_summary(tracker, str(summary_file), image_path)
     
     # Display results

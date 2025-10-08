@@ -1,0 +1,22 @@
+Single Image AI Vision OCR - Processing Summary
+==================================================
+
+Processing Date: 2025-10-08 13:20:53
+Image Processed: dupickens_b-1_218.jpg
+Full Path: /Users/eahorton/Downloads/deeds_unbound/dupickens/dupickens_b-1/images/dupickens_b-1_218.jpg
+Processing Time: 17.76 seconds
+
+Token Usage:
+------------
+Input Tokens:  975
+Output Tokens: 383
+Total Tokens:  1,358
+
+Estimated Cost: $0.0106 USD
+
+Model Details:
+--------------
+Model: gpt-4o
+  Input tokens: 975
+  Output tokens: 383
+  Cost: $0.0106

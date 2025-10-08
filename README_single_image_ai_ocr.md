@@ -72,14 +72,14 @@ pip install -r requirements_ai_vision.txt
 
 ## Output
 
-The script creates two files in the `ocr_results_ai_vision/[folder_name]/` directory:
+The script creates files in the `ocr_results_ai_vision/[folder_name]/` directory structure:
 
-1. **`[image_name]_transcription.txt`** - Clean transcribed text with metadata
-2. **`[image_name]_summary.txt`** - Processing summary with token usage and costs
+- **`[image_name]_transcription.txt`** - Complete transcribed text with metadata (saved in main folder)
+- **`summaries/[image_name]_summary.txt`** - Processing summary with token usage and costs (saved in summaries subfolder)
 
 For example, processing `dupickens/dupickens_b-1/images/dupickens_b-1_217.jpg` creates:
 - `ocr_results_ai_vision/dupickens_b-1/dupickens_b-1_217_transcription.txt`
-- `ocr_results_ai_vision/dupickens_b-1/dupickens_b-1_217_summary.txt`
+- `ocr_results_ai_vision/dupickens_b-1/summaries/dupickens_b-1_217_summary.txt`
 
 ## Example Output Structure
 
