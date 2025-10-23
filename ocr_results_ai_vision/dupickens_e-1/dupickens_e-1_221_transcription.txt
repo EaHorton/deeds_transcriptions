@@ -1,55 +1,55 @@
 Source Image: dupickens_e-1_221.jpg
-Transcription Date: 2025-09-25 12:09:57
+Transcription Date: 2025-10-23 16:34:11
+
+Quality Analysis:
+----------------------------------------
+Image DPI: 639.5
+Review Flags:
+- Missing expected elements: County, witness
+- Found 1 repeated text blocks
+
 ============================================================
 
-```plaintext
-172
-
-I have hereunto set my hand and seal this ninth day of Sept. A.D. 1843.
+I have hereunto set my hand and seal this nineth day of Sept A.D. 1843.
 Signed sealed and delivered in presence of
                                     Coleman Smith (seal)
-Stephen H. Austin, L. C. Holcombe
-State of South Carolina  } Personally came L. C. Holcombe before me the
-Pickens District         } subscribing Magistrate and made oath that he
+Stephen Holcombe, L. C. Holcombe
+State of South Carolina } Personally came the C. Holcombe before me the
+Pickens District } subscribing magistrate and made oath that he
 saw Coleman Smith sign seal and deliver the within deed to L. Holcombe and
-that he with Stephen H. Austin in presence and at request of the within
-named did the same. Sept. 9th 1843.
-Stephen H. Reid, M.D.                      L. C. Holcombe
+saw Stephen Holcombe with himself subscribe his name with
+Stephen Holcombe to the same Sept. 9th 1843.
+                                    M. C. Holcombe
 Recorded this 19th day of September 1843 and examined by
-                                    W. L. Keith C.C. & H.M.C.
-
-William Kirksey
-To
-E. L. Kirksey
+                                    W. L. Keith C.C. H. M. C.
 
 Deed of Gift of Two Negro Slaves.
 State of South Carolina } Know all men by these presents
-Pickens District        } that I William Kirksey
+Pickens District } that I William Kirksey
 of the District aforesaid in consideration of
 the natural love and affection which I have and bear to my loving son
 E. L. Kirksey and for divers other good causes and valuable considerations
 me thereunto especially moving have given granted and by these presents
 do give grant bestow unto said E. L. Kirksey my two negroes Vizt. Caroline
-and her child who is to take possession of said negroes at the death of
-the said E. L. Kirksey his Executors Administrators and assigns his & their
-own property from henceforth forever. Provided always upon this express con-
-dition that he the said E. L. Kirksey his Executors Administrators & assigns
+and her child who is to take possession of and to appropriate to his
+own use E. L. Kirksey his Executors Administrators and assigns his Heirs
+own property from henceforth forever, provide always upon this express con-
+dition, that he the said E. L. Kirksey his Executors Administrators & assigns
 shall so permit and suffer me the said William Kirksey to use hold enjoy
-the said negroes in such way or yielding anything for them as I may
-in my natural life and that from and after my decease he the said E. L. Kirksey
+the said negroes during my natural life, and that from and after my decease the said E. L. Kirksey
 his heirs assigns or assigns shall on lawfully may have hold & enjoy said negroes
-to him and their own proper use & benefit.
+to his and their own proper use and benefit.
 Signed sealed & delivered in the presence of
 this 19th July 1844.
 R. A. Madden, M. S. Madden
 South Carolina } Personally appeared R. A. Madden before me and made
 Anderson District } oath that he did see the William Kirksey sign seal and
-deliver the within deed of gift for the use and purpose therein
-set forth and that R. A. Madden & M. S. Madden with himself were subscribing wit-
+deliver the within deed of gift for the uses and purposes therein
+set forth and that R. Madden & M. S. Madden with himself were subscribing wit-
 nesses to the same sworn to and subscribed before me this 31st day of July 1844
                                     R. A. Madden
 Wm. Holston, M. H.
 Recorded in the Clerks Office 21st day of September 1844 & Examined
 by
-W. L. Keith C.C. & H.M.C.
+W. L. Keith C.C. H. M. C.
 ```

@@ -1,168 +1,238 @@
 Source Image: dupickens_b-1_240.jpg
-Transcription Date: 2025-09-25 11:14:32
+Transcription Date: 2025-10-23 15:57:32
+
+Quality Analysis:
+----------------------------------------
+Image DPI: 141.2
+Review Flags:
+- Missing expected elements: County, sworn, witness
+- Image DPI (141.2) below minimum (200)
+
 ============================================================
 
 ```plaintext
 218
 
-The State of South Carolina
-Charleston District
-
-Office of the Registry In Chancery, Petition for
-Partition Filed 21 April 1832 Bunch & Smith, Sol'rs for Petitioners.
+The State of South Carolina   Office of the Registry In Chancery - Petition for
+Charleston District           Partition Filed 21 April 1832 Bunch & Smith, Sol. Petitioners
 
 Exparte
-Patrick Noble Trustee of J. Thomas, Clk & Regis'r in Equity for the District
-aforesaid, do hereby certify that the annexed schedules
-of Negro Slaves marked A is the portion share of Eliza A. Pickens the wife of
-Thomas B. Pickens, allotted to her out of which a block by the Court for the purpose of
-the marriage settlement referred to in the said petition by the
-Commissioners appointed by the Court under and for execution of the Decree of Partition
-in this case. The Commissioners appointed by the Court in this
-case on the 21st day of March 1830 and confirmed on the 10th day of April
-1830 and that the said schedule is a true copy and one of which said
-schedules is now on file in this office. In testimony whereof I have hereunto set
-my hand and the seal of this office on this 11th day of May in the year of our Lord one thousand
-eight hundred and thirty two.
-
-Thos. J. Gantt
-R. E. C. & C.
-
-Schedule A
-
-Names of Negroes
-
-Alley
-Lucy
-Hiley
-Guanna
-Sylva
-John
-Amanda
-Caesar
-Silvia
-Eliza
-Betty
-Phillis
-Venus
-Cine
-Piney
-Taffey
-Toles
-Joe
-Mary
-
-Amount of Valuation
-18000
-1200
-1200
-1200
-1200
-1200
-1200
-1200
-1200
-1200
-1200
-1200
-1200
-1200
-1200
-1200
-1200
-1200
-1200
-1200
-
-Amount brought forward
-695
-
-Names of Negroes
-
-Caesar
-Phillis
-Patty
-Phoebe
-Ben
-Esther
-Hannah
-Mary
-Silvia
-Phillis
-Charlotte
-Caesar
-Abraham
-Marcellus
-Phoebe
-Jack
-Shadrick
-Sarah
-Moses
-
-Amount of Valuation
-1150
-1035
-1150
-1035
-1150
-1035
-1150
-1035
-1150
-1035
-1150
-1035
-1150
-1035
-1150
-1035
-1150
-1035
-1150
-1035
-
-Amount brought forward
-10325
-
-Names of Negroes
-
-Sancho
-Grace
-Doll
-Nero
-Abby
-Hannah
-Sophy
-Hagar
-Moses
-Slate
-Peter
-Susie
-Ellery
-Henry
-Pompey
-
-Amount of Valuation
-925
-800
-700
-600
-1100
-1000
-500
-500
-500
-500
-500
-500
-500
-500
-500
-
-Total
-Appraisement
-16850
-
-Filed 11 May
-1832
-```
+Patrick & Noble Trustees of J. Howard, & Ann Eliza his wife in Equity of the Jurisdiction
+Thomas J. Rookes et ux et al foresaid, do hereby certify that the annexed, extracted
+of Negro Slaves marked A is the portion share of Eliza A. Rookes the wife of
+and of John, attached to a certain schedule of the Estate of the said
+the now annexed to the Marriage Settlement referred to in the said petition by the
+Commissioners appointed by the Court under and for Execution of the Decree of Partition
+Office in the said case. And I do further certify that the said schedule is in this
+Office on the 21st day of April 1832 as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and thirty two
+and that the said schedule is in this Office as a Compliance on the tenth day of the
+eleventh month in the year of our Lord one thousand eight hundred and

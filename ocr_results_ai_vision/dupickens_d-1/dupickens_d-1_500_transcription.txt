@@ -1,70 +1,67 @@
 Source Image: dupickens_d-1_500.jpg
-Transcription Date: 2025-09-25 11:39:42
+Transcription Date: 2025-10-23 16:15:28
+
+Quality Analysis:
+----------------------------------------
+Image DPI: 467.3
+Review Flags:
+- Missing expected elements: County
+- Found 1 repeated text blocks
+
 ============================================================
 
-Sure, here is the transcribed text from the image:
+heretofore that she did then and does now freely voluntarily and without any compulsion
+or dread of any person or persons renounce release and forever relinquish unto the said
+William Kirksey his heirs executors every claim or title to dower which has heretofore given
+peace. Given under my hand and seal this 27th day of December 1841.
+her
+Jane X Kirksey (Seal)
+mark
+Signed Sealed & Delivered
+in presence of
+Recorded the 7th day of March 1842 and examined by
+W. L. Keith C.C. & M.E.
 
-```
-(311)
-
-and declare that the act then and now done freely voluntarily and without any compulsion
-or fear of any person persons or persons whomsoever. In Testimony whereof I have
-hereunto affixed my seal and subscribed my name at New Orleans in the said
-parish of Orleans on this twenty sixth day of December in the year of our Lord one thousand eight hundred and
-twenty. Given under my hand and seal this 26th day of December 1821.
-Wm. H. Smith
-Seal
-Recorded the 7th day of March 1822 and examined by
-Ed. L. White C.C. M. M. C.
-
-William Kirksey
-to
-Sam Kirksey in trust
-for A. Williams
-
-State of South Carolina Know all men by these presents
-Pendleton District that I William Kirksey of the
-District of Pickens and State aforesaid for and in consideration
+State of South Carolina   Know all men by these presents
+Pendleton District        that I William Kirksey of the
+District aforesaid and state aforesaid for and in consideration
 of the love and affection which I have for and bear to my
-son in law Asa Williams of the District and State aforesaid
-for the sum of five Dollars to me in hand paid by Saml. Kirksey of Anderson District & State aforesaid
+son Sam Kirksey of the District and State aforesaid and
+for 5 Dollars to me in hand paid by Sam Kirksey of Anderson District & State aforesaid
 the receipt and payment whereof is hereby acknowledged, I have bargained delivered
-and by these presents do bargain deliver and confirm unto the said Saml. Kirksey
-with the said William Kirksey trustee for the following slaves (to wit) Melinda a Girl about
-ten years old, and her increase, to have and to hold the said Melinda and her
-increase to the said Saml. Kirksey his heirs and assigns forever and I the said William Kirksey
-do warrant and forever defend the said Melinda and her increase to the said Saml. Kirksey
-and his heirs and assigns forever against myself and my heirs and against all other
-persons whomsoever claiming or to claim the said Melinda and her increase or any
-part thereof. In Witness whereof I have hereunto set my hand and seal this
-twenty seventh day of December in the year of our Lord one thousand eight hundred
-and twenty one and in the forty six year of the Independence of the United States of America.
-Signed Sealed and delivered in the presence of
-Christopher Kirksey, E. C. Kirksey
+and by these presents do bargain deliver and convey unto the said Sam Kirksey in trust
+with the said Kirksey trustee the following slaves (to wit) Melinda a Girl about
+fifteen years of age to have and to hold the said Melinda to the said Sam Kirksey
+trustee his heirs and assigns forever in trust for the use of H. Williams his
+heirs and assigns forever. I do warrant and forever defend the right and title
+to the said Melinda against myself my heirs executors and administrators and
+against the lawful claim or claims of any other person or persons whomsoever
+unto the said Sam Kirksey trustee his heirs executors and administrators and
+assigns forever. Witness my hand and seal this twenty first day of December in the
+year of our Lord one thousand eight hundred and forty one and in the sixty six year of American
+Independence. Signed sealed and delivered in the presence of
+Christopher Kirksey, C. H. Kirksey
 Wm Kirksey (Seal)
-
-State of South Carolina Know all men by these presents that I Saml. Kirksey the
-Pendleton District trustee as within mentioned do hereby certify that I have received the
-within named Melinda and her increase from the said William Kirksey and do hereby
-acknowledge the receipt thereof. Given under my hand and seal this twenty seventh day of
-December in the year of our Lord one thousand eight hundred and twenty one.
-Signed Sealed and acknowledged in the presence of
-Christopher Kirksey, E. C. Kirksey
-Saml. Kirksey (Seal)
-
-State of South Carolina I do hereby certify that William Kirksey hath at the right of the
-Pendleton District notary before me in consequence of my having had this action removed
-from the said possession for some time past and recovered in the said February
-8th 1822.
-B. G. Holland
-
-State of South Carolina Before me personally appeared E. C. Kirksey & Saml. Kirksey and made
-Pendleton District oath that they saw the within named William Kirksey sign seal
-and deliver the within deed & trust for the use and purpose therein mentioned and
-that they with Christopher Kirksey witnessed the due execution thereof.
-Sworn to before me this 8th day of February 1822.
-B. G. Holland
-E. C. Kirksey
-Saml. Kirksey
-Recorded the 7th day of March 1822. Examined by Ed. L. White C.C. M. M. C.
+State of South Carolina   Know all men by these presents that I Sam Kirksey the
+Pendleton District        trustee in the within deed do hereby certify that I have received
+from H. Williams of the said district aforesaid, three hundred and forty
+dollars this fifteenth day of January in the year of our Lord one thousand eight
+hundred and forty two.
+Sam Kirksey (Seal)
+Signed sealed and acknowledged in the presence of
+Christopher Kirksey, C. H. Kirksey
+State of South Carolina   I do hereby certify that William Kirksey lent me the right of the
+Pendleton District        notary above executed to me in consequence of my having had the within named
+Melinda in my possession for some time past and delivered to the said Sam Kirksey
+J. H. McClain
+State of South Carolina   Before me personally appeared C. H. Kirksey & Sam Kirksey and
+Pendleton District        made oath that they saw the within named William Kirksey sign seal
+and deliver the within deed & trust for the use and purpose in the within
+mentioned and that they with Christopher Kirksey witnessed the due execution
+thereof. Sworn to and subscribed before me this 7th day of March 1842.
+W. L. Keith C.C. & M.E.
+Christopher Kirksey
+C. H. Kirksey
+Sam Kirksey
+Recorded the 7th day of March 1842 & examined by W. L. Keith C.C. & M.E.
 ```

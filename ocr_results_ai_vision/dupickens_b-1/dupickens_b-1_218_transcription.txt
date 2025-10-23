@@ -1,58 +1,56 @@
 Source Image: dupickens_b-1_218.jpg
-Full Path: /Users/eahorton/Downloads/deeds_unbound/dupickens/dupickens_b-1/images/dupickens_b-1_218.jpg
-Transcription Date: 2025-10-08 13:20:53
+Transcription Date: 2025-10-23 15:51:11
+
+Quality Analysis:
+----------------------------------------
+Image DPI: 123.5
+Review Flags:
+- Missing expected elements: South Carolina, State of South Carolina, County, sworn, witness
+- Found 5 repeated text blocks
+- Image DPI (123.5) below minimum (200)
+
 ============================================================
 
-V
-
-196
+```plaintext
+V                                                                                      196
 
 mentioned were brought before us and personally examined (having first
-examined the parties concerned in the said partition to be present) and accor-
-ding to the best of our judgment and the evidence and circumstances
-the said partition, find that the Negro Slaves contained in the Schedule
-marked A are annexed to the share or allotment of your Petitioners Richard &
-Robert, and that the Negro Slaves contained in the Schedule marked B are
-allotted to Denmark Delisha, the other surviving Legatee prayed for in
+examined the parties concerned in the said plantation to be present) and accor-
+ding to the best of our judgment have determined and do determine and
+the said plantation produce that the Negro Slaves contained in the Schedule
+marked A are annexed to the Plantation attached to your Petitioners House &
+Polders and that the Negro Slaves contained in the Schedule marked B are
+allotted to Demerara Estates, the Petitioner Joseph Peake prays for in
 the Petition.  All which is respectfully submitted.
 
-Joseph S. Waring
-John J. Peale
-Hugh C. Nelson
-Thomas Gibson
+                                                                 Joseph S. Waring
+                                                                 John J. Peake
+                                                                 Hugh C. Nelson
+                                                                 Thomas Gibson
 
-- Folio the 4th day 1839 -
-
-Schedule of Negro Slaves
-
-A
-
-Negroes
+Negroes                    Amount brought up  £1251
 Billy
 Linus
 Emma
 Lynne
 Ishmael
 Eliza
-Milly
+Matilda
 Betty
 Phillip
 Venus
 Ben
-Ray
-Cuffy
+Cuffey
 Cook
 Joe
 Mary
 
-Amount brought up
-
-Cona
+Cones
 Phillis
 Patsey
-Rose
-Tom
-Isbell
+Phoebe
+Bam
+Butler
 Hannah
 Mary
 Sick
@@ -67,65 +65,21 @@ Isaac
 Dinah
 Rose
 
-/1800
-
-/1150
-
-/1250
-
-/1150
-
-/1200
-
-/1205
-
-/1025
-
-Lancho
+Sancho
 Friday
 Sall
 Tom
 Adam
-Libby
+Sibby
 Hannah
 Sally
 Sophia
 Nat
 Grace
-Wall
+Sall
 Peter
-Ann
+Tom
 Louis
 Jess
 Henry
 Pompey
-
-/1235
-
-/925
-
-/800
-
-/700
-
-/500
-
-/4500
-
-/4000
-
-/3000
-
-/2000
-
-/1500
-
-/500
-
-/500
-
-B
-
-Total
-
-/41370

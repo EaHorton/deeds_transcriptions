@@ -1,58 +1,49 @@
 Source Image: dupickens_b-1_217.jpg
-Full Path: /Users/eahorton/Downloads/deeds_unbound/dupickens/dupickens_b-1/images/dupickens_b-1_217.jpg
-Transcription Date: 2025-10-08 13:08:36
+Transcription Date: 2025-10-23 15:46:05
+
+Quality Analysis:
+----------------------------------------
+Image DPI: 123.5
+Review Flags:
+- Missing expected elements: County
+- Found 4 repeated text blocks
+- Image DPI (123.5) below minimum (200)
+
 ============================================================
 
-V                                                                                      195
-
-trustees shall be appointed & confirmed, shall be forthwith & forever from 
-compleat discharge.  In Witness whereof the said parties have 
-to these presents interchangably set their hands and seals on the day 
-and in the year first above written. 
-Sealed and delivered in the presence of 
-The word ran a check fully in the thirteenth 
-line from the beginning being first interlined 
-J. Pickens, Eliza A. Pickens, P. Pickens, Noble
+trustees shall be appointed & confirmed, shall be forthwith & forever from service
+completely discharged.  In Witness whereof the said parties have
+to these presents interchangably set their hands and seals on the day
+and in the year first above written.
+Sealed and delivered in the presence of
+The word "ran a check" fully in the thirteenth
+line from the beginning being first interlined
+J. P. Peters, Eliza A. Pickens, P. Pickens, Noble
 
 Eliza Pickens (Seal)          Robert Anderson (Seal)          Patrick Noble (Seal)
                                              May 13, Pickens
 
-The State of South Carolina } Personally appeared Thomas J. Pickens 
-Pickens District } before me and made oath that he saw 
-Robert Anderson, Eliza A. & J. Pickens sign seal and deliver the within 
-instrument of writing or settlement to Patrick Noble Esquire Trustee 
-in the year and on the day above written, and that he with Eliza A. 
-Pickens with himself witnessed the due execution of the same sworn 
-to the 11th day of July 1832 
-before William L. Pickett C.C. & C.P. Ex. Officio 
-Recorded the 11th day of July 1832 and examined by 
-William L. Pickett C.C. & P.M.C.
+The State of South Carolina } Personally appeared Thomas J. Pickens
+Pickens District                } before me and made oath that he saw
+Robert Anderson & Eliza A. Pickens sign seal and deliver the within
+instrument of writing or settlement to Patrick Noble Esquire Trustee
+in the case and purpose within mentioned and that he with J. P.
+Peters with himself witnessed the due execution of the same sworn
+to the 11th day of July 1832
+before William L. Keith C.C. & P. & M. E.
+Recorded the 11th day of July 1832 and examined by
+William L. Keith C.C. & P. & M. E.
 
-In Chancery 
-Ex parte 
-Patrick Noble 
-Trustee of 
-Thomas J. Pickens 
-and wife
+Ex parte
+Patrick Noble Trustee of } Personally appeared before me Thomas Y. Colcock,
+Thomas J. Pickens et ux } Joseph H. Ewing, John J. Reuben, and Hugh L.
+Allison who being duly sworn made oath that they would act and faithfully
+execute this writ and the command thereby given them as therein
+directed.
 
-Return of Commissioners & decretal order 
-Filed 4th May 1832 
-Bland & Smith 
-Pro. petn
-
-The State of South Carolina 
-Court of 
-Charleston District } In Equity
-
-Ex parte 
-Patrick Noble Trustee of } Personally appeared before me Thomas Cokes, 
-Thomas J. Pickens et ux } Joseph H. Ewing, John J. Reuben, and Hugh J. 
-Allison who being duly sworn made oath that they would act and faithfully 
-execute this writ and the command thereby given them. Sworn to 
-before me
-
-We John J. Reuben, Thomas Cokes, Joseph H. Ewing, and Hugh J. Allison 
-do humbly certify unto the Honorable the Chancellory of the Court of 
-Equity, that in obedience to the annexed writ of partition in us directed 
-we have duly executed the same, having set apart and assigned 
-proper portion on the premises, and the said Negro slaves therein
+We John J. Reuben, Thomas Ewing, Joseph H. Ewing, and Hugh L. Allison
+do humbly certify unto the Honorable the Chancellory of the Court of
+Equity, that in obedience to the annexed writ of partition in us directed
+we have duly executed the same. Having first duly and impartially
+proceeded on the premises, and in the case of the Negro slaves thereon
+104

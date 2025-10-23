@@ -1,72 +1,55 @@
 Source Image: dupickens_d-1_534.jpg
-Transcription Date: 2025-09-25 11:59:25
+Transcription Date: 2025-10-23 16:26:39
+
+Quality Analysis:
+----------------------------------------
+Image DPI: 431.9
+Review Flags:
+- Missing expected elements: County
+- Found 6 repeated text blocks
+
 ============================================================
-
-William Crenshaw
-
-to
-
-A. B. Grant
-
-508
 
 State of South Carolina, To all whom these presents may
 concern William Crenshaw in the State aforesaid
 send Greeting. Whereas I the said William Crenshaw in
 my certain bond or obligation bearing date the Thirtieth
-day of February in the year of our Lord one thousand Eighty two, stand firmly held and bound
-unto A. B. Grant in the penal sum of Two hundred & fifty dollars, conditioned for the payment
-of the just and full sum of One hundred and twenty five dollars lawful money of the
-said State aforesaid, with lawful interest for the same from the date thereof, and for the
-more fully appear. Now Know all men by these presents, that I, William Crenshaw am
-indebted to the said A. B. Grant in the sum of one hundred and twenty five dollars, being the principal
-sum of the aforesaid bond or obligation, for the better securing the payment of the said
-sum of one hundred and twenty five dollars, according to the condition of the said Bond; and also in
-consideration of the further sum of one dollar to me in hand paid by the said A. B. Grant at or before the
-sealing and delivery of these presents, the receipt whereof is hereby acknowledged, have granted, bargained, sold
-and released, and by these presents do grant, bargain, sell and release unto the said A. B. Grant
-all that plantation or tract of Land containing two hundred
-acres, more or less, situate, lying & being in Richland District on the Wateree
-Creek, known by Crenshaw's old place, bounded on the North by lands of John
-Brown, James Maverick & J. Brown, on the East by lands of said Brown, together with all and
+day of February in the year of our Lord one thousand eight hundred and forty two, stand firmly held and bound
+unto A. B. Grant in the penal sum of Two thousand & fifty dollars, conditioned for the payment of the full and just sum of one thousand and twenty five dollars lawful money of the said State aforesaid, with interest from the first day of February last, as in and by the said bond or obligation and condition thereof reference being thereunto had, may more fully appear. Now Know all men by these presents, that I the said William Crenshaw am held and firmly bound unto the said A. B. Grant in the full and just sum of one thousand and twenty five dollars lawful money of the said State aforesaid, to be paid to the said A. B. Grant or his certain attorney, executors, administrators or assigns, to which payment well and truly to be made, I bind myself, my heirs, executors and administrators, and every of them firmly by these presents. Sealed with my seal, and dated the thirtieth day of February in the year of our Lord one thousand eight hundred and forty two.
+
+The condition of this obligation is such, that if the above bounden William Crenshaw his heirs, executors or administrators, or any of them, shall and do well and truly pay or cause to be paid unto the above named A. B. Grant his certain attorney, executors, administrators or assigns, the full and just sum of one thousand and twenty five dollars lawful money of the said State aforesaid, together with lawful interest for the same, at or upon the thirtieth day of February next ensuing the date hereof, without fraud or further delay, then the above written obligation to be void and of none effect, or else to remain in full force and virtue.
+
+Personally appeared R. Beale Esq. and made oath that he saw
+William Crenshaw sign seal and as his act and deed deliver the
+within Mortgage for the uses and purposes within mentioned and
+J. W. Stokes with himself in the presence of each other.
+Sworn to before me this 1st day of July 1842.
+W. L. Keith C.C.P.
+
+South Carolina. Know all men by these presents that I James
+Smith of the State aforesaid, for and in consideration of the sum of
+One thousand and twenty dollars to me in hand paid, at and
+before the sealing and delivery of these presents, by James
+Henderson of the State aforesaid, the receipt whereof is hereby
+acknowledged, have granted, bargained, sold and released, and by
+these presents do grant, bargain, sell and release unto the said
+James Henderson, all that plantation or tract of Land containing two hundred
+and seventy acres more or less, situate, lying and being in Richland District on the Wateree
+Creek, bounded by lands of William Crenshaw, John Brown, Elias Davis, and others, having
+such shape, form and marks as are represented by a plat hereunto annexed. Together with all and
 singular the rights, members, hereditaments and appurtenances to the said premises belonging
 or in anywise incident or appertaining. To have and to hold all and singular the premises before
-mentioned unto the said A. B. Grant his heirs and assigns forever. And I do hereby bind myself, my
-heirs, executors and administrators, to warrant and forever defend all and singular the said premises
-unto the said A. B. Grant his heirs and assigns against me and my heirs and against every
-person whomsoever lawfully claiming or to claim the same or any part thereof. Provided always, and it is the true intent and meaning
-of these presents, that if I the said William Crenshaw, my heirs, executors or administrators shall and do well and
-truly pay or cause to be paid unto the said A. B. Grant the said sum of money of one hundred and twenty five dollars
-on or before the first day of March next, with lawful interest for the same, then this present
-indenture and the estate hereby granted shall cease, determine, and be utterly null and void. Otherwise to remain in full force
-and virtue. In witness whereof I the said William Crenshaw have hereunto set my hand and seal this
-thirtieth day of July in the year of our Lord one thousand eight hundred and forty two, and in the sixty sixth year of the sovereignty and independence
+mentioned unto the said James Henderson his heirs and assigns forever. And I do hereby bind
+myself, my heirs, executors and administrators, to warrant and forever defend all and singular
+the said premises unto the said James Henderson his heirs and assigns against me and my heirs
+and against every person whomsoever lawfully claiming or to claim the same or any part thereof.
+Witness my hand and seal this thirtieth day of June in the year of our Lord one thousand eight
+hundred and forty two, and in the sixty sixth year of the sovereignty and independence
 of the United States of America.
 
-Signed, sealed and delivered in the presence of:
-
-J. W. Brown, R. Beale.
-
-William Crenshaw (Seal)
-
-South Carolina Personally appeared R. Beale Esq. and made oath that he
-saw William Crenshaw sign, seal and as his act and deed deliver the
-within Mortgage for the uses and purposes within mentioned and that he with J. W. Brown subscribe himself
-a witness to the due execution thereof. Sworn to before me this 1st day of July 1842.
-
-R. Beale
-
-Before me J. S. Heidt C.C.
-
-Received the 1st day of July 1842 and examined by W. L. Heidt C.C. A.M.C.
-
-James Smith
-
-to
-
-James Henderson
-
-South Carolina Know all men by these presents that I James
-Smith of Richland District, in consideration of the sum of
-One thousand and twenty dollars to me in hand paid, do
-bargain, sell and in plain and open market deliver unto
+Personally appeared R. Beale Esq. and made oath that he saw
+James Smith sign seal and as his act and deed deliver the
+within Mortgage for the uses and purposes within mentioned and
+J. W. Stokes with himself in the presence of each other.
+Sworn to before me this 1st day of July 1842.
+W. L. Keith C.C.P.

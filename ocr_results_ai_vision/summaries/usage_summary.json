@@ -1,14 +1,14 @@
 {
   "processing_summary": {
     "total_input_tokens": 77430,
-    "total_output_tokens": 83119,
-    "total_tokens": 160549,
+    "total_output_tokens": 77935,
+    "total_tokens": 155365,
     "total_requests": 70,
-    "total_cost": 1.633935,
+    "total_cost": 1.556175,
     "model_breakdown": {
       "gpt-4o": {
         "input": 77430,
-        "output": 83119,
+        "output": 77935,
         "requests": 70
       }
     }
@@ -85,6 +85,6 @@
     "dupickens_e-1_255.jpg",
     "dupickens_e-1_221.jpg"
   ],
-  "timestamp": "2025-09-25 12:09:57",
-  "estimated_cost_usd": 1.633935
+  "timestamp": "2025-10-23 16:34:11",
+  "estimated_cost_usd": 1.556175
 }

@@ -1,9 +1,14 @@
 Source Image: dupickens_c-1_435.jpg
-Transcription Date: 2025-09-25 11:36:38
-============================================================
+Transcription Date: 2025-10-23 16:13:49
 
-```plaintext
-1111
+Quality Analysis:
+----------------------------------------
+Image DPI: 733.8
+Review Flags:
+- Missing expected elements: State of South Carolina, County
+- Found 3 repeated text blocks
+
+============================================================
 
 James McKinney of the District of Pickens for the sum of Two hundred and 
 twentyeight dollars being the highest sum that was bidden therefor Now Know 
@@ -15,48 +20,38 @@ be paid by the said James McKinney the receipt and payment whereof I do hereby
 acknowledge have bargained and sold and by these presents do bargain and sell 
 unto the said buyer James McKinney his heirs and assigns forever the said Negro 
 Girl Mary and all the Estate right title and interest which the said James 
-McKinney might had or ought to have to the same. To have and to hold the said Negro 
+McKinney might had or ought to have to the same To have and to hold the said Negro 
 Girl Mary unto the said buyer James McKinney his heirs and assigns forever 
 as fully and absolutely as The said William O. Sloan as Sheriff might could or 
 ought to bargain and sell the same by virtue of the said aforesaid, or by the said 
 Writ of Fieri Facias or otherwise, in witness whereof I the said Wm O. Sloan 
 have hereunto set my hand and seal the Twelfth day of September in the year 
-of our Lord one thousand eight hundred and thirty six. 
+of our Lord one thousand eight hundred and thirty six 
 Signed Sealed and delivered in the presence of 
-Francis Burt, John Bauskine
-
-William O. Sloan (Seal)
-S. P. C.
+Francis Burt, John Berridine
 
 South Carolina } Before me personally appeared Francis Burt and made oath 
-Pickens District } he saw the William O. Sloan Esqr sign seal and deliver the 
+Pickens District } he also see William O. Sloan Esq sign seal and deliver the 
 within Bill of Sale to Maj. James McKinney for the purposes within mentioned 
-and John Bauskine with him a subscribing witness to the same sworn to 
+and John Berradine with him a subscribing witness to the same Sworn to 
 the 21st day of June 1837. 
 Francis Burt
 
-Before me L. Keith C.C.
+Before me L. Keith C. C. 
 Recorded the 19th day of August 1837 and Examined by me 
-W. L. Keith C.C. & R.M.C.
+W. L. Keith C. C. & R. M. C.
 
-William O. Sloan
-S.P.D.
-To
-Samuel Reid
-
-South Carolina
 To all to whom these presents shall 
 come I William O. Sloan Sheriff of Pickens District 
-and State aforesaid send Greeting. Whereas by virtue of 
+and State aforesaid send Greeting Whereas by virtue of 
 a Writ of Fieri Facias issued out of the Court of Common Pleas held for the Dist- 
 rict of Pickens tested the eighteenth day of October in the year of our Lord one 
 thousand eight hundred and thirty at the suit of George W. Liddell against 
-Thomas Lomas and Thomas Lomas to me directed, I did seize and take 
-all the goods and Chattels, lands and tenements of the said Thomas Lomas 
-& Thomas H. Lomas to levy the sum of Forty Five dollars and fifty cents dam- 
+Thomas Loma and Thomas Loma to me directed, I did seize and take 
+all the goods and Chattels, lands and tenements of the said Thomas Loma 
+& Thomas H. Loma to levy the sum of Forty Five dollars and fifty cents dam- 
 ages and costs, I have seized and taken of the lands and tenements of the said 
-Thomas Lomas all that certain piece parcel or tract of land Lomas, containing 
+Thomas Loma all that certain piece parcel or tract of land Loma, containing 
 Six hundred Acres more or less lying composed of two tracts of land lying 
 in the District of Pickens and State aforesaid and lying on both sides of the 
-Twelve Mile River and being the tract on which Thomas Lomas lives and a 
-```
+Twelve Mile River and being the tract on which Thomas Loma lives and a
