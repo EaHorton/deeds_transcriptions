@@ -1,0 +1,59 @@
+Source Image: dupickens_g-1_300DPI_167.jpg
+Transcription Date: 2026-02-27 15:54:34
+
+Quality Analysis:
+----------------------------------------
+Image DPI: 663.9
+Review Flags:
+- Missing expected elements: County
+- Found 7 repeated text blocks
+
+============================================================
+
+The above is a true representation of a parcel of land situated in Pickens
+District, S. Carolina on the East side of Coneross Creek, it being part of a tract
+originally granted to Wm Allen 1785 and known as the estate of Roger & Bennett
+as represented above. Containing seven acres, as taken from the original plat
+of above plat, reference thereon, by the request of Mrs. E. Armstrong this 20th
+day of April 1830.
+Robert Fullerton D. S.
+Recorded the 25th day of May 1830 and examined by W. L. Keith C.C. & R.M.C.
+
+Know all men by these presents that
+I W. L. Keith of the District of Pickens and State aforesaid for and in
+consideration of the natural love and affection which I have for my Daughter Elizabeth
+Jane Hester wife of W. H. Hester of Abbeville District in the state aforesaid have given
+and delivered unto the said Elizabeth Jane Hester the following negroes to wit a girl about
+fifteen years old named Lucy, a girl about twelve years old named Mary, a girl about
+ten years old named Sarah, a girl about six years old named Rose, a boy about
+four years old named Jack, and a boy about two years old named Ben, to have and to
+hold the said negroes and their future increase with the said Elizabeth Jane Hester and her
+heirs if her body any issue forever with the following proviso that should the said
+Elizabeth Jane Hester die leaving no issue or heirs of her own body, the above named
+negroes at her death are to return to me or to my heirs or assigns and I do
+forever bind me and my legal representatives to warrant and defend the said negroes
+unto the said Elizabeth Jane Hester and her heirs forever against all persons whomsoever
+lawfully claiming or to claim the same or any part thereof. In witness whereof
+I have hereunto set my hand and seal this 3rd day of May A. D. 1830
+Signed Sealed and delivered in presence of
+John D. Thomas
+Thomas Gillette
+State of South Carolina
+
+I Lafayette W. Hester the husband of the within named
+Elizabeth Jane Hester do hereby consent to the within deed of Gift with this condition
+and proviso therein set forth and do sign the same this Eighteenth day of May 1830
+Signed Sealed and acknowledged in presence of
+John D. Thomas
+W. H. Hester (Seal)
+
+South Carolina Before me personally appeared S. B. Keith one of the
+Pickens District who saith on oath that he saw W. L. Keith sign seal and deliver the within
+instrument for the uses and purposes therein mentioned and that he with John D. Thomas
+and Thomas Gillette in the presence of each other witnessed the due execution thereof.
+Sworn to and subscribed before me this 18th day of May 1830
+John D. Thomas
+
+South Carolina Before me personally appeared John D. Thomas one of the
+Pickens District that he was present and did see W. L. Keith sign seal and deliver
+```

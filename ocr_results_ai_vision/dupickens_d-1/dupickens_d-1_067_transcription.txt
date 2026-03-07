@@ -1,71 +1,58 @@
 Source Image: dupickens_d-1_067.jpg
-Transcription Date: 2025-10-23 16:16:04
+Transcription Date: 2026-02-26 16:47:49
 
 Quality Analysis:
 ----------------------------------------
 Image DPI: 454.5
 Review Flags:
-- Missing expected elements: South Carolina, State of South Carolina, sworn
+- Missing expected elements: South Carolina, State of South Carolina
 - Found 2 repeated text blocks
 
 ============================================================
 
-State of Indiana }
-Harrison County }  ss.  This indenture witnesseth that Henry
-Vance of the State and County aforesaid for and
+State of Alabama }
+Jackson County } Know all men by these presents that I Henry
 in consideration of the love and affection I bear to my beloved son
-in law Richard Kephart and his wife and for the further con-
-sideration of one dollar to me in hand paid the receipt whereof is hereby
-acknowledged have given granted and bargained and sold and by these presents do give
-grant bargain and sell unto the said Richard Kephart and his wife and their heirs
-and assigns forever the following described real estate (to wit) the west half of the
-south east quarter of section twenty six (26) in township number four (4) south of range
-number three (3) east in the district of lands subject to sale at Jeffersonville Indiana
-containing eighty acres more or less to have and to hold the said premises with all
-the appurtenances thereunto belonging to the said Richard Kephart and his wife and
-their heirs and assigns forever and I the said Henry Vance for myself my heirs executors
-and administrators do covenant and agree to and with the said Richard Kephart and his
-wife and their heirs and assigns that I am lawfully seized in fee of the premises afore-
-said that they are free from all incumbrances and that I will warrant and defend the
-same against the lawful claims of all persons whomsoever. In testimony whereof I have
-hereunto set my hand and seal this twenty fifth day of April in the year one thousand
-eight hundred and thirty eight.
-Signed sealed and delivered in presence of us Joseph B. Thompson
-Henry Vance (seal)
-State of Indiana }
-Harrison County } ss.  Before me the undersigned a Justice of the
-Peace in and for said County personally appeared Henry Vance and acknowledged the
-execution of the foregoing deed for the purposes therein mentioned. Given under my hand
-and seal this 25th day of April 1838.
-Daniel J. Thompson
-Justice of the Peace (seal)
-Recorded the 22nd day of October 1838 as examined by
-L. S. Heth C.C. H.C.M.C.
+Daniel Kephart or Hephburn and for the further consideration of the
+good causes hereunto moving me, do by these presents give bargain sell and transfer unto
+my beloved daughter before marriage gave give and transfer unto my said son his
+executors heirs and assigns the largest bay horse now in my possession. In witness whereof I
+hereunto subscribe my name and affix my seal this twenty fifth day of April in the year one thousand
+eight hundred and thirty eight. 
+Signed sealed and delivered in presence of us } Joseph Bishop
+State of Alabama } I Joseph Bishop an acting Justice of the peace in and for the
+Jackson County } state and county aforesaid do hereby certify that Henry Vance whose
+name is subscribed to the foregoing conveyance and who is known to me acknowledged before me on the day
+of the date thereof that being informed of the contents of the conveyance he executed the same voluntarily
+on the day the same bears date. Given under my hand and seal this 25th day of April 1838.
+Joseph Bishop J.P. {Seal}
+Recorded the 22nd day of October 1838 and examined by
+L. T. Tittle C.C.C. R.M.C.
 
-State of Indiana }
-Harrison County } ss.  This indenture witnesseth that Michael Brundine
-of the State and County aforesaid for and in consideration
-of the natural love that I have towards my son Hamilton Brundine
-and for the further consideration of one dollar to me in hand paid the receipt whereof is hereby
-acknowledged have given granted and bargained and sold and by these presents do give grant bargain
-and sell unto the said Hamilton Brundine and his heirs and assigns forever the following described
-real estate (to wit) the north west quarter of the north west quarter of section number twenty six (26) in
-township number four (4) south of range number three (3) east in the district of lands subject to sale at
-Jeffersonville Indiana containing forty acres more or less to have and to hold the said premises with all
-the appurtenances thereunto belonging to the said Hamilton Brundine and his heirs and assigns forever
-and I the said Michael Brundine for myself my heirs executors and administrators do covenant and
-agree to and with the said Hamilton Brundine and his heirs and assigns that I am lawfully seized in
-fee of the premises aforesaid that they are free from all incumbrances and that I will warrant and defend
-the same against the lawful claims of all persons whomsoever. In testimony whereof I have hereunto set
-my hand and seal this 19th day of April in the year one thousand eight hundred and thirty seven.
-Signed sealed and delivered in presence of us
-John Brown } Michael Brundine (seal)
-Alfred Brundine }
-State of Indiana }
-Harrison County } ss.  Before me personally appeared the above named Michael Brundine
-and acknowledged the execution of the above deed for the purposes therein mentioned. Given under my
-hand and seal this 19th day of April 1837.
-John Brown
-Justice of the Peace (seal)
-Recorded the 1st day of Novr 1838 as examined by L. S. Heth C.C. H.C.M.C.
-```
+State of Alabama }
+Jackson County } Know all men by these presents that I Michael Brundine
+in consideration of the natural love that I have towards my son Hamilton Brundine and
+for the further consideration of the sum of one dollar to me in hand paid by the said
+Hamilton Brundine have this day given granted bargained sold and conveyed unto the said
+and hereby give grant bargain sell and convey unto the said Hamilton Brundine his heirs and
+assigns forever the following described tract or parcel of land situate lying and being in the
+County of Little River Creek Alabama. Beginning at a point on the south side of the
+Little River at a branch known by the name of the fork of the branch 16° 30' E 20 chains
+thence N 45° E 20 chains thence N 45° W 20 chains thence S 45° W 20 chains to the place of beginning
+containing 40 acres more or less. To have and to hold the said tract or parcel of land with all
+and singular the appurtenances thereunto belonging or in any wise appertaining to the only
+proper use benefit and behoof of the said Hamilton Brundine his heirs and assigns forever. And I
+the said Michael Brundine for myself my heirs executors and administrators do covenant and agree to and
+with the said Hamilton Brundine his heirs and assigns that I am lawfully seized in fee of the afore
+granted premises that they are free from all incumbrances and that I have a good right to sell and
+convey the same to the said Hamilton Brundine as aforesaid and that I will and my heirs executors
+and administrators shall warrant and defend the same to the said Hamilton Brundine his heirs and
+assigns forever against the lawful claims and demands of all persons. In witness whereof I have hereunto
+set my hand and seal this 19th day of April 1838.
+Test. John Bruner } Michael Brundine {Seal}
+John Bruner } Before me personally appeared John Bruner and
+Jackson County } John Bruner who being duly sworn depose and say that they saw Michael
+Brundine sign seal and deliver the within conveyance to Hamilton Brundine for the uses and purposes within mentioned and that they
+subscribed their names as witnesses thereto in the presence of the said Michael Brundine on the 19th day of April 1838.
+Before me L. T. Tittle C.C.
+Recorded the 1st day of Novr 1838 and examined by L. T. Tittle C.C.C. R.M.C.

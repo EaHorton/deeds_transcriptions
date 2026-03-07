@@ -1,0 +1,65 @@
+Source Image: dupickens_g-1_300DPI_456.jpg
+Transcription Date: 2026-02-27 16:34:31
+
+Quality Analysis:
+----------------------------------------
+Image DPI: 682.2
+Review Flags:
+- Missing expected elements: County
+- Found 4 repeated text blocks
+
+============================================================
+
+Returning her surplus of any slaves left to be after paying the said Debt
+& accounting with the Interest according with this said Florida Calhoun
+and Florida M. Calhoun their Executors Administrators or assigns.
+
+Witness my hand and seal this 13th day of May in the year of our Lord one
+thousand eight hundred and fifty four and in the seventy eighth year
+of the American Independence.
+
+1. Savory aged 50 Sam. aged 30
+2. Peter " 57 Sarah " 10
+3. Ned " 25 Savory " 2
+4. Nicholas " 18 Moses " 2
+5. Jonas " 19 Judy " 2
+6. Jim " 20 John " 2
+7. Matilda " 18 Katy " 2
+8. Chapman " 20 Mary " 2
+9. Moses " 22 Delphy " 2
+10. George " 22 Sally " 2
+11. Serena " 18 Edward " 2
+12. Armstead " 38 Priss " 32
+13. Binah " 38 Isaac " 10
+14. Tom " 22 Geo " 10
+15. Cate " 19 Ann " 10
+16. Sally " 17 Katy " 10
+17. Daniel " 37 Hetty " 10
+18. Rosanna " 20 Chloe " 10
+19. Willis " 21 Mary " 10
+20. Peter " 12 Richmond " 20
+21. Dic " 19 Phila " 100
+22. Fany " 16 Lucy " 100
+23. Hannah " 14 Grandison " 11
+24. Daniel " 10 Jackson " 2
+25. Billy " 35
+
+South Carolina } Personally appeared before me J. C. Calhoun and made oath that
+Pickens District } he was present and did see A. P. Calhoun sign seal and deliver the
+within Mortgage for the use and purposes therein mentioned and that Thos C.
+Calhoun with himself witnessed the due execution thereof. Sworn to before me this 15 day of
+May 1854. Thos. H. Keith C.C.P. J. C. Calhoun
+Recorded the 15th day of July 1854 and examined by Th. H. Keith C.C.P.
+
+State of South Carolina Pickens District
+Deed Gift of personal property
+Know all men by these presents that I Florida Calhoun
+of the state and District aforesaid for and in consideration
+of the natural love and affection I have towards my son
+John C. Calhoun of the state and District aforesaid
+and for other good causes and considerations me hereunto moving have
+given and granted and by these presents do give and grant unto the said
+John C. Calhoun his executors administrators and assigns the following
+negro slaves viz. Priss, Matilda, Jacob, Lucy, Grandison, and
+also the said slaves together with her future increase unto the said
+```

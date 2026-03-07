@@ -1,0 +1,65 @@
+Source Image: dupickens_e-1_300DPI_305.jpg
+Transcription Date: 2026-02-26 20:27:44
+
+Quality Analysis:
+----------------------------------------
+Image DPI: 601.5
+Review Flags:
+- Missing expected elements: County
+- Found 1 repeated text blocks
+
+============================================================
+
+black oaks thence S 86 E 4.75 to a spanish oak x thence S 35 E 20.50 to a red oak x
+thence S 49 E 3.06 to a post oak x thence N 13 W 35.75 to a red oak x on the Road leading
+from John Chastains to Eagle & Table Mountains, thence along said road to the corner
+x thence S 11 W 2.50 to a red oak x at a branch thence down said branch to a white oak x
+thence S 29 E 5.25 to a post oak x thence S 36 E 18.18 to the begin. corner containing Two
+hundred and twenty three Acres more or less I have hereunto set my hand and seal this
+Tenth of June, in the year of our Lord one thousand and eight hundred and fifteen
+Administrators and assigns this against me the said Pochat Southerland my
+Executors Administrators or any person or persons either from or for me whom-
+soever shall claim the same every part thereof, and I the said Pochat Southerland
+as warrant and forever defend the above described tract or parcel of land
+unto Testimony whereof I have hereunto set my hand and seal this 10 day of
+April one thousand and one thousand eight hundred and fifteen.
+In the presence of us
+Alexander Eason
+Type I. Roper
+The State of South Carolina Viz I. Roper this day personally appeared before me
+a Justice of the Peace
+Pickens District
+the subscribing magistrate and whom being duly
+sworn as the law directs, deposeth and saith on oath that he saw the above
+named Pochat Southerland sign seal and deliver the within deed of conveyance
+to two within named Samuel Eason Sam Southerland for the use and pur-
+poses therein contained and that himself Alexander Eason was present and
+subscribed his name as a witness to the due execution of the same Sworn to
+this 19th day of April 1815. He deposes and saith that he saw Alexander
+Eason in existence before sworn to
+Before me J. B. Reed Magistrate P. D.
+Recorded in the Clerks Office on the 21st day of April 1815 and examined by
+M. H. Hite C. C. H. M. C.
+
+Deed of Gift of Negro Girl
+South Carolina
+Pendleton District
+Know all men by these presents that I
+Jonathan Reeder hath this day given to
+Eli Cleveland a negro girl by the name of Lucy being a part of the
+property it being a part of the property given by me to Mary H. Luty as a part
+of her share of my Estate, a negro woman Emily about six years of age which
+property I do warrant to them as property given by my heirs Executors
+and Administrators forever against any person or persons whomsoever
+In witness whereof I have hereunto set my hand and affixed my seal this 1st
+July 1836. Lewis W. Reeder
+Jonathan Reeder (Seal)
+The State of South Carolina
+Pickens District
+Personally came before me Lewis W. Reeder and made oath
+that he did see Jonathan Reeder sign seal and deliver the
+within deed of gift for the use and purpose therein mentioned and that he was
+present and did sign his name as a witness. Sworn to 1st of July 1836
+before me
+Lewis W. Reeder
+```

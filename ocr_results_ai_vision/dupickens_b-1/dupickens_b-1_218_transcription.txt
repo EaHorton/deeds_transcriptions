@@ -1,67 +1,42 @@
 Source Image: dupickens_b-1_218.jpg
-Transcription Date: 2025-10-23 15:51:11
+Transcription Date: 2026-02-26 16:13:25
 
 Quality Analysis:
 ----------------------------------------
 Image DPI: 123.5
 Review Flags:
 - Missing expected elements: South Carolina, State of South Carolina, County, sworn, witness
-- Found 5 repeated text blocks
+- Found 36 repeated text blocks
 - Image DPI (123.5) below minimum (200)
 
 ============================================================
 
-```plaintext
-V                                                                                      196
-
 mentioned were brought before us and personally examined (having first
-examined the parties concerned in the said plantation to be present) and accor-
-ding to the best of our judgment have determined and do determine and
-the said plantation produce that the Negro Slaves contained in the Schedule
-marked A are annexed to the Plantation attached to your Petitioners House &
-Polders and that the Negro Slaves contained in the Schedule marked B are
-allotted to Demerara Estates, the Petitioner Joseph Peake prays for in
+examined the parties concerned in the said partition to be present) and accor-
+ding to the best of our Judgement from the examination and the recommend-
+ation of the said parties, find that the Negro Slaves contained in the Schedule
+Marked A are annexed to the Share or allotment to your Petitioners Richard S.
+Robson, and that the Negro Slaves contained in the Schedule marked B are
+allotted to Jeremiah Fields, the other surviving Petitioner as prayed for in
 the Petition.  All which is respectfully submitted.
 
-                                                                 Joseph S. Waring
-                                                                 John J. Peake
-                                                                 Hugh C. Nelson
-                                                                 Thomas Gibson
-
-Negroes                    Amount brought up  £1251
-Billy
-Linus
-Emma
-Lynne
-Ishmael
-Eliza
-Matilda
-Betty
-Phillip
-Venus
-Ben
-Cuffey
-Cook
-Joe
-Mary
-
-Cones
+Cona
 Phillis
 Patsey
-Phoebe
-Bam
+Rose
+Tom
 Butler
 Hannah
 Mary
 Sick
 Phillis
 Charlotte
-Tom
+Sam
 Abraham
 Hercules
 Phoebe
 John
-Isaac
+Ishmael
 Dinah
 Rose
 
@@ -70,15 +45,15 @@ Friday
 Sall
 Tom
 Adam
-Sibby
+Libby
 Hannah
 Sally
 Sophia
 Nat
 Grace
-Sall
+Wall
 Peter
-Tom
+Ann
 Louis
 Jess
 Henry

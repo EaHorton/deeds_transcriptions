@@ -1,23 +1,23 @@
 AI Vision OCR - Usage and Cost Summary
 ========================================
 
-Processing Date: 2025-10-23 16:34:11
-Images Processed: 70
-Total API Requests: 70
+Processing Date: 2026-02-27 16:42:31
+Images Processed: 49
+Total API Requests: 49
 
 Token Usage:
 ---------------
-Input Tokens:  77,430
-Output Tokens: 77,935
-Total Tokens:  155,365
+Input Tokens:  64,435
+Output Tokens: 94,213
+Total Tokens:  158,648
 
-Estimated Cost: $1.5562 USD
+Estimated Cost: $1.7354 USD
 
 Model Breakdown:
 ----------------
 gpt-4o:
-  Requests: 70
-  Input tokens: 77,430
-  Output tokens: 77,935
-  Cost: $1.5562
+  Requests: 49
+  Input tokens: 64,435
+  Output tokens: 94,213
+  Cost: $1.7354
 

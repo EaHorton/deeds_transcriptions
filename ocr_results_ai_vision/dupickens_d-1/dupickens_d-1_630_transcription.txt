@@ -1,63 +1,64 @@
 Source Image: dupickens_d-1_630.jpg
-Transcription Date: 2025-10-23 16:26:12
+Transcription Date: 2026-02-26 20:25:42
 
 Quality Analysis:
 ----------------------------------------
 Image DPI: 430.7
 Review Flags:
 - Missing expected elements: State of South Carolina, County
-- Found 2 repeated text blocks
+- Found 3 repeated text blocks
 
 ============================================================
 
 on a subscribing witness with himself, sworn to before me this 6th April 1843
 Wm. L. Steele
-Recieved the 8th day of April 1843 and examined by W. L. Steele C.C. & M.E.
+Recieved the 8th day of April 1843 and examined by Wm. L. Steele C.C. & R.M.C.
 
-South Carolina } I John Venner of the state and District aforesaid
-Richland District } being feeble and weak in body though of sound
-mind and memory, have deemed it necessary for the disposal of my perishable property in the
-manner and form following, that is to say, to my son David G.
-Venner I give my Negro woman Sarah and Girl Clara, and to my
-Daughter Rebecca Venner I give my Negro woman Maria her two children Moses
+South Carolina } I John Venner of the state and district aforesaid
+Richland District } being feeble and weak in body though of a
+sound mind and memory, do will and dispose of my plantation property in the
+following manner (that is to say) to my son David G.
+Venner I give my Negro woman Sarah and girl Clara, and to my
+daughter Rebecca Venner I give my Negro woman Nance her two children Moses
 & Martha and my Negro boy Tom. To my son Samuel I Venner I give my Negro
-boy John and my Coal black Horse Charley. To my son Francis W. Venner I give my Negro
-boy Frank and Negro Girl Shealey. And to my son Ebenezer P. Venner I give my
-Negro boy Sam and my interest or claim in the Store that is situated in the Town of
-Camden and to my son James G. P. Venner I give my Daughter Rebecca Venner
-Venner I give my Negro woman Mary and her boy child Sam. I wish & hereby
-direct that my Negro boy George be sold and the proceeds divided upon the said
-property to be divided equally between her Mother and her Sisters, Rebecca, Maria
-and my son Ebenezer, three Negroes (Sarah) Maria and her two children and my wife
-Rebecca Venner during her life or widowhood, and at her death I wish my wife
-think best, and further in regard of my Books, Plantation tools, and farming
-utensils, I wish my Executors to dispose of them at publick auction, after giving
-reasonable notice, and after paying all my just debts, I wish the proceeds to be
-equally divided between my three sons Francis, Ebenezer and James G. P. Venner
-and my three children that have heretofore been advanced amongst them. In testimony hereof I have hereunto set
-my hand and seal this 19th day of January in the year of our Lord 1843, and in the 67
-year of American Independence.
+boy Jack, to my son Caleb & Horace I Venner I give my Negro woman Fanny my Negro
+boy Frank and Negro girl Shealey. And to my son Ebenezer P. Venner I give my
+Negro boy Sam and my interest or claim in the store that is situated in the first
+lane of the city of Charleston S.C. To my daughter Caroline I Venner I give my
+Negro girl Mary Ann and Mary Ann's boy child Sam. I wish it hereby
+understood that my Negroes are not to be sold or disposed of until after the death
+of my wife Rebecca, these Negroes (Sarah) and those in the last named clause
+are to be at the service of my wife during her life. I also give my wife
+Rebecca all my household furniture, beds, bedsteads, bedding, and every
+thing that has heretofore been in service amongst them. In testimony hereof I have hereunto set
+my hand and seal the 19th day of January in the year of our Lord 1843, and in the 67th
+year of the Independence of America.
 John Venner (Seal)
 Signed, Sealed and
-delivered in presence of us
+delivered in presence of
+Martin Venner
 South Carolina } Personally appeared before me Martin Venner and
 Richland District } Polson Outlaw, and made oath that we saw John Venner sign, seal and deliver the
 within deed of Gift for the use and purposes therein mentioned and that we believe
 him to be of sound mind and memory. Sworn to before me this 19th day of January 1843.
 Wm. L. Steele
-Magistrate
-Recorded the 8th day of April 1843 and examined by W. L. Steele C.C. & M.E.
+Martin Venner
+Polson Outlaw
+Recorded the 8th day of April 1843 and examined by Wm. L. Steele C.C. & R.M.C.
 
 South Carolina } This Indenture made by and between Nathaniel
-Richland District } Merritt of the one part and Temperance M. Martin of the other
-part, witnesseth that for and in consideration of the sum of one hundred
-dollars to me in hand paid at and before the sealing and delivery of these presents, the receipt whereof is hereby acknowledged, have given and granted and by these presents do
-give and grant unto the said Temperance M. Martin and her heirs, their
-assigns, all that piece parcel or tract of land containing seventy five, and a half acres, situate
-in Richland District and State aforesaid, on the waters of Doctor's Creek the same being
-part of a tract of land originally granted to Robert Anderson 19th of January 1787.
-To have and to hold the said premises unto the said Temperance M. Martin, her heirs and
-the said Nathaniel Merritt, his heirs and assigns, forever. In witness whereof I have hereunto
-set my hand and seal this the eighth day of January in the year of our Lord one thousand
-eight hundred and forty three, and of American Independence the sixty seventh.
-Signed, Sealed and delivered in presence of us.
+Richland District } Merritt of the one part and Temperance M. Martin of the
+aforesaid parish in consideration of the sum of one dollar
+to him in hand paid by the said Temperance M. Martin at and before the sealing
+and delivery thereof, the receipt whereof is hereby acknowledged, hath granted, bargained, sold and
+released, and by these presents doth grant, bargain, sell and release unto the said Temperance M. Martin
+all that piece parcel or tract of land containing seventy five and a half acres, situate
+in Richland District and bounded on the north by Doctor Woods, the east by
+a part of land originally granted to Robert Anderson, south by James Kelly 1787,
+and west by land of James McCants. To have and to hold all and singular the
+premises before mentioned unto the said Temperance M. Martin, her heirs and
+assigns forever. In witness whereof the said Nathaniel Merritt hath hereunto set
+his hand and seal this the eighth day of January in the year of our Lord one thousand eight
+hundred and forty three, and in the sixty seventh year of the Independence of the United States of America.
+Nathaniel Merritt (Seal)
+```

@@ -1,0 +1,32 @@
+Single Image AI Vision OCR - Processing Summary
+==================================================
+
+Processing Date: 2025-12-16 13:47:39
+Image Processed: dupickens_c-1_193.jpg
+Full Path: /Users/eahorton/Downloads/deeds_unbound/dupickens/dupickens_c-1/images/dupickens_c-1_193.jpg
+Processing Time: 141.47 seconds
+
+Token Usage:
+------------
+Input Tokens:  1,315
+Output Tokens: 4,000
+Total Tokens:  5,315
+
+Estimated Cost: $0.0666 USD
+
+Model Details:
+--------------
+Model: gpt-4o
+  Input tokens: 1,315
+  Output tokens: 4,000
+  Cost: $0.0666
+
+Hallucination Detection Results:
+--------------------------------
+Status: ⚠️  NEEDS REVIEW
+Text Length: 11,174 characters
+Image DPI: 735.9
+
+Review Required - Reasons:
+  • Missing expected elements: County
+  • Found 3 repeated text blocks

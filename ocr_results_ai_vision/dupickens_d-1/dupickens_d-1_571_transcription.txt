@@ -1,62 +1,69 @@
 Source Image: dupickens_d-1_571.jpg
-Transcription Date: 2025-10-23 16:18:29
+Transcription Date: 2026-02-26 20:16:55
 
 Quality Analysis:
 ----------------------------------------
 Image DPI: 429.6
 Review Flags:
 - Missing expected elements: County
-- Found 6 repeated text blocks
 
 ============================================================
 
-and deliver and by these presents bargain sell and confirm unto the 
-said W. H. Heath and W. H. Laddett Trustees the 
+```plaintext
+and deliver and by these presents bargain sell and confirm unto the said Wm Heath and W W Laddell Trustees the 
 following slaves to wit. Charlotte about thirty five years of age and her five 
-children viz Jack about twenty one years of age, Henretta about fifteen years 
+children viz Jack about twenty one years of age, Howard about fifteen years 
 old, Mary about thirteen years old, Thomas about nine years old, and Maria 
-about seven years old, also Sarah about thirty five years of age and her three 
-children to wit Ellen about seven years old Henry about five years old and 
+about seven years old, one other slave Harry about thirty years of age and three 
+Children to wit Ellen about seven years old Henry about five years old and 
 Hannah about one year old, Abram about forty years old, Allen about fifteen 
 years old, together with all my stock of Horses, Cattle, Sheep and Hogs farming 
-utensils, household and kitchen furniture together with the Crop of Corn, Cotton 
-and whatever else may be on the premises. To have and to hold all and singular 
-the said slaves together with the future increase of the females thereof, stock, 
-tools and property aforesaid to the said W. H. Heath and W. H. Laddett Trustees 
+utensils, Household and Kitchen furniture together with the Crop of Corn, Cotton 
+and other articles may be on the premises. To have and to hold all and singular the 
+foregoing slaves together with the future increase of the females thereof, stock 
+Horses, Cattle, Sheep and Hogs to the said Wm Heath and W W Laddell Trustees 
 their heirs and assigns forever for the only proper use benefit and behoof of the 
-said Elisha Lawrence his heirs and assigns forever. And the said Elisha Law- 
-rence doth covenant to and with the said W. H. Heath and W. H. Laddett Trustees 
-their heirs and assigns that he the said Elisha Lawrence is the true and lawful 
-owner of the above property and hath full power to dispose of the same and that 
-the same is free from all incumbrances and that he will warrant and defend the 
-same to the said W. H. Heath and W. H. Laddett Trustees their heirs and assigns 
-forever against the lawful claims of all persons whomsoever. In witness whereof 
-I have hereunto set my hand and seal this 5th day of November in the year of our 
-Lord one thousand eight hundred and forty two and in the sixty seventh year of 
-the Sovereignty and Independence of the United States of America.
-
-State of South Carolina, Kershaw District } 
-Personally appeared before me Wm. Oliver and made oath that he saw 
-Elisha Lawrence sign seal and as his act and deed deliver the within 
-deed of trust to be used by way of a mortgage of the personal property 
-therein mentioned for the purposes therein expressed and that he with 
-John A. Sheddan in the presence of each other witnessed the due execution 
-thereof. Sworn to before me this 5th day of November in the year of our 
+said Wm Heath and W W Laddell Trustees their heirs and assigns forever. And I the 
+said Elisha Lawrence for myself my heirs executors and administrators the said 
+slaves and stock of Horses, Cattle, Sheep and Hogs unto the said Wm Heath and 
+W W Laddell Trustees, shall have (sure of peace) from any of the above specified 
+claims and every other person or persons whatsoever. Provided always that if I 
+the said Elisha Lawrence my heirs executors or administrators shall and do well 
+and truly pay or cause to be paid unto the said Wm Heath and W W Laddell Trustees 
+their heirs executors administrators or assigns the full and just sum of money 
+aforesaid with interest thereon at the rate of eight per cent per annum according 
+to the true intent and meaning of the said promissory note, then and in that 
+case these presents and every thing herein contained shall cease determine and 
+be void to all intents and purposes, otherwise to remain in full force and virtue. Reserving to 
+myself one Negro boy Dave not named in the above schedule and two Horses one 
+large Wagon and carry all. In witness whereof I have hereunto set my hand and 
+seal this fourth day of November in the year of our Lord one thousand eight 
+hundred and forty two, in the sixty seventh year of American Sovereignty 
+Signed Sealed and delivered in presence of 
+Wm Oliver, John Anderson 
+Elisha Lawrence (Seal) 
+State of South Carolina Know all men by these presents that we Wm Heath 
+Pickens District & W W Laddell the Trustees named in the within 
+deed of trust do hereby by way of acceptance of the trust therein specified 
+acknowledge our hands and seals the fifteenth day of November in the year of our 
 Lord one thousand eight hundred and forty two. 
-
-State of South Carolina, Kershaw District } 
-I Wm. Oliver Notary Public and Ex Officio Justice of the Quorum do hereby 
-certify unto all whom it may concern that John A. Sheddan whose name 
-appears to the foregoing deed of trust as a subscribing witness is a 
-respectable person and to be believed on oath. Given under my hand and 
-seal this 5th day of November in the year of our Lord one thousand eight 
-hundred and forty two. 
-
-State of South Carolina, Kershaw District } 
-Personally appeared before me Robert Craig and made oath that he saw 
-Elisha Lawrence sign seal and as his act and deed deliver the within 
-deed of trust to be used by way of a mortgage of the personal property 
-therein mentioned for the purposes therein expressed and that he with 
-John A. Sheddan in the presence of each other witnessed the due execution 
-thereof. Sworn to before me this 5th day of November in the year of our 
-Lord one thousand eight hundred and forty two. 
+Signed Sealed and acknowledged in the presence of us 
+Wm Oliver, Robert Craig 
+Wm Heath (Seal) 
+W W Laddell 
+State of South Carolina I do hereby certify that Wm Oliver and John Anderson 
+Pickens District came before me and made oath that in their presence and in the 
+presence of each other they saw Elisha Lawrence sign seal and as his act and deed 
+deliver the within written deed of trust for the uses and purposes therein mentioned 
+and that they subscribed their names as witnesses to the execution of the same Sworn to and 
+subscribed before me this 15th day of Novr 1842 
+Wm Oliver 
+Jas. Huchy Not. Pub. Ex. Off. P. D. 
+State of South Carolina I do hereby certify that I saw personally appear Robert Craig, and made oath 
+Pickens District that in presence of each other he saw Wm Heath & W W Laddell sign seal and as 
+trustees acceptance to the within deed of trust for the uses and purposes therein mentioned 
+and that they subscribed their names as witnesses to the execution of the same Sworn to and 
+subscribed before me this 15th day of Novr 1842 
+Jas. Huchy Not. Pub. Ex. Off. P. D. 
+Recorded this 16th day of Novr 1842 and examined by L P Hitte C C P R M C 
+```

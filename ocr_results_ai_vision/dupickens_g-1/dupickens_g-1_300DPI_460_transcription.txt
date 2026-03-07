@@ -1,0 +1,105 @@
+Source Image: dupickens_g-1_300DPI_460.jpg
+Transcription Date: 2026-02-27 16:36:09
+
+Quality Analysis:
+----------------------------------------
+Image DPI: 678.0
+Review Flags:
+- Missing expected elements: State of South Carolina, County
+- Found 1 repeated text blocks
+
+============================================================
+
+above mentioned sum of money have also bargained sold and we firm and open makes
+deliverers and by these presents do hereby bargain sell and in plain and open market
+deliver unto the said Andrew Calhoun the following named fifty six negroes (Viz)
+old Savory Keco Nicholas Sam Jim alias Shipman Linus Nassy Isaac
+Amstead Sinah Tom Lato only David Hannah Nicholas Ned Fanny Maria
+Diana Billy Jane Leah Nancy Ann Sally Peggy Lucy Daisy Delphia Sally
+Sally Peggy also also one other fifty Negro fellows named Julius Dick Lucy Jonathan
+Sambo also all the plantation and premises lately of the said Patrick Calhoun
+situate in the parish of Saint Thomas in the settlement of British Honduras except
+such portions of a wooden house bath and kitchen furniture being the entire property of
+the said Andrew Calhoun and now being in his possession and also all the stock of cattle
+horses and sheep remaining on the said plantation and premises and also all the
+cattle and sheep remaining on the said plantation and premises and also all the
+between the said parties bearing date the 18th day of July 1834 and also five twentieth
+to have and to hold as well the said negroes the same before mentioned unto the said
+Andrew Calhoun his heirs and assigns forever And we do hereby bind ourselves our heirs
+executors and administrators to warrant and forever defend the said conveyance and
+premises unto the said Andrew Calhoun his heirs and assigns forever against all and
+every person whomsoever lawfully claiming or to claim the same or any part
+thereof. Witness our hands and seals this 19th day of July in the year of our Lord one thousand
+eight hundred and thirty four and in the seventy eighth year of the independence of America
+Sealed and delivered
+in the presence of
+H. Calhoun & Calhoun
+South Carolina Personally appeared Before me H. Calhoun and made oath that he
+is the within named party and is to Patrick Calhoun and the Calhoun
+seal and deliver the within and for the use and purposes therein mentioned and
+that he did also see with himself the witness to the same and that he is the
+Sworn to before me this 19th day of July 1834.
+J. S. Keith C.C.
+
+Savory age 57
+Keco " 50
+Fred " 26
+Nicholas " 40
+Sanas " 16
+Jim " 20
+Matias " 20
+Shipman " 20
+Linus " 20
+Nassy " 20
+Isaac " 20
+Tom " 22
+Lato " 22
+Baby " 23
+Sally " 23
+
+Savanna age 32
+Willis " 21
+Peter " 21
+Dice " 21
+Fanny " 11
+Hannah " 11
+Daniel " 11
+Lucy " 11
+Nancy " 10
+Jane " 10
+Leah " 10
+Ann " 10
+Sally " 10
+Peggy " 10
+Baby " 10
+Alon " 23
+
+Delphia age 15
+Sally " 4
+Edwards " 4
+Julius " 4
+Dick " 4
+Lucy " 4
+Jonathan " 4
+Sambo " 4
+Isaac " 4
+Tom " 4
+Ned " 4
+Fanny " 4
+Maria " 4
+Billy " 4
+Chico " 4
+Sally " 4
+Ann " 4
+Richmond " 4
+Nate " 4
+Sally " 4
+Peggy " 4
+Harrison " 4
+Jackson " 4
+
+The list of Articles disposed to be excepted from Sale
+All the Slaves belonging to that Patrick Calhoun
+1 Bedstead and Bedding complete and with other furniture belonging to 2 Rooms
+1 Trunk Containing valuable papers
+```

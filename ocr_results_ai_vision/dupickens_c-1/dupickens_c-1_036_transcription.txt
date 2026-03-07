@@ -1,66 +1,61 @@
 Source Image: dupickens_c-1_036.jpg
-Transcription Date: 2025-10-23 16:12:40
+Transcription Date: 2026-02-26 16:33:58
 
 Quality Analysis:
 ----------------------------------------
 Image DPI: 808.9
 Review Flags:
 - Missing expected elements: County
-- Found 3 repeated text blocks
+- Found 2 repeated text blocks
 
 ============================================================
 
-Know all men by these presents that we the undersigned  
-heirs of the Estate of William deceased late of the  
-District and State aforesaid do give unto Sarah King his  
-Grand daughter a certain Negro girl named Peggy and a Negro girl Lucy in  
-her previous and we do hereby for the interest of him our grand father  
-and our own interest being satisfied that such conveyance of said  
-Negroes was made that we also relinquish all our claim forever in a Negro  
-if any we have to the said Sarah King now Sarah Barton and that we do  
-by these presents convey the same to her heirs and assigns to claim to the same  
-conveyance whereunto we assign our names this 1st May 1831 as Witness  
-our hands and seals  
-Test Ransier Anderson Lucinda Liddis  
-her mark  
-Elizabeth X Jones (seal)  
-her mark  
-Adam X Jones (seal)  
-his mark  
-Harriett X Jones (seal)  
-her mark  
-William X King (seal)  
-his mark  
+State of South Carolina	Know all men by these
+Anderson District	presents that we the undersigned
+legatees of Thomas deceased to wit Elizabeth Jones
+& her son Adam & her son William decd give unto Sarah King & his
+Grand daughter a certain Negro girl named Peggy and a Negro girl Lucy in
+her previous natural life before the death of her Grand father
+and we do hereby relinquish all our claim forever in a Negro
+Lucy or male that we also relinquish all our claim forever in a Negro
+if any we have to the said Sarah King now Sarah Barton and that we do
+by these presents assign and convey unto her forever the same
+conveyance whereunto we assign our names this 1st May 1831 as Witness
+our hands and seals
+Test Names	Elizabeth Jones (seal)
+her
+Lucinda Willits	Adam X Jones (seal)
+mark	William Jones (seal)
+Harriett Jones (seal)
+William King (seal)
 
-State of South Carolina Personally appeared before me James L. Anderson and  
-Anderson District made oath in due form of law and saw Elizabeth Jones  
-Adam Jones Harriett Jones & William King sign seal the within conveyance  
-named and deliver unto Sarah Barton for the use and purposes therein men-  
-tioned and that Lucinda Liddis was a subscribing witness with himself  
-Sworn to before me this 20 day of May 1831  
-George W. Anderson  
-Magistrate  
-Recorded this 27th Oct 1831 and Examined by me  
-William N. Pickens C.C.P. & M.E.  
+State of South Carolina	Personally appeared before me James Lowry and
+Anderson District	made oath in due form and saw Elizabeth Jones
+Adam Jones Harriett Jones & William King sign seal the within relinquish-
+ment and deliver unto Sarah Barton for the use of her heirs and
+assigns a certain Lucinda Willits was a subscribing witness with himself
+Sworn to before me this 20 day 1831
+George Lowry
+James Lowry
+Sworn to 27th Oct 1831 and Examined by me
+William N. Pickens C.C.P. & M.E.
 
-South Carolina  
-To all to whom these presents shall come I  
-William L. Sloan Sheriff of Pickens District and State aforesaid  
-send Greeting. Whereas by Virtue of a writ of Fieri facias  
-issued out of the Court of Common Pleas for the District of  
-Pickens tested the fourth day of February in the year of our Lord one thousand eight  
-hundred and one thirty three at the suit of William Pickett to me directed commanding  
-me that of the goods and Chattels lands and tenements of James Sloan I should  
-cause to be made a certain sum of one hundred and seventy five dollars and seventy five  
-cents that were negroes or other of the lands and tenements of the said James Sloan  
-and that certain piece of land and a part of a tract containing two hundred acres  
-more or less situate and being in the District of Pickens on the waters of Eighteen  
-Mile Creek adjoining lands of David Sloan William Thompson and lands  
-devised to the said A. Sloan and lands of Swann Sloan. And whereas the said  
-premises were duly advertised for the day of the levy to wit the 1st Monday in  
-July of said year 1833 being the day of sale and were exposed to sale at public Venue  
-and purchased by William Pickett and assigned by him to title to Ele Fitz-  
-gerald for the sum of Two hundred and ten dollars for the whole of the said  
-tract of land. Now know ye that I William L. Sloan by virtue of the said  
-by virtue of the said Writ of Fieri Facias aforesaid to me directed as aforesaid  
+South Carolina	To all to whom these presents shall come I
+William L. Sloan Sheriff of Pickens District and State aforesaid
+send Greeting. Whereas by Virtue of a writ of Fieri facias
+issued out of the Court of Common Pleas for the District of
+Pickens tested the fourth day of February in the year of our Lord one thousand eight
+hundred and one forty three at the suit of William Pickett to me directed commanding
+me that of the goods and Chattels lands and tenements of James A. Sloan I should
+cause to be made a certain sum of one hundred and seventy five dollars damages and
+costs I have seized and taken of the lands and tenements of the said James A. Sloan
+that certain piece parcel and tract of land containing two hundred and forty
+acres more or less and lying on the East side of Keowee River on Eagle Creek
+Little River adjoining lands of David Sloan William Thompson and lands
+devised to the said A. Sloan and lands of Swann Sloan. And whereas the said
+premises were duly advertised for the day of sale and were exposed to sale at public Venue
+and purchase by William Pickett and assigned by him to make titles to Ele Fitz
+gerald the bidder of said land for the sum of three dollars for the highest
+part of the bid. Now know ye that I William L. Sloan by virtue aforesaid
+by virtue of the said Writ of Fieri Facias aforesaid to me directed as aforesaid
 as aforesaid and by virtue of the Statutes in such case made and provided

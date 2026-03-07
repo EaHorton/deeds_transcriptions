@@ -1,11 +1,12 @@
 Source Image: dupickens_e-1_254.jpg
-Transcription Date: 2025-10-23 16:33:16
+Transcription Date: 2026-02-26 20:28:02
 
 Quality Analysis:
 ----------------------------------------
 Image DPI: 649.8
 Review Flags:
-- Found 2 repeated text blocks
+- Missing expected elements: County
+- Found 1 repeated text blocks
 
 ============================================================
 
@@ -15,41 +16,40 @@ State of South Carolina drawn between Jackson
 Pickens District. Chapman of the one part &
 William Con of the other part. Witnesseth that the sd Wm Con has given
 the sd Jackson Chapman a clear title to a certain tract of land lying on
-Stevens Creek containing two hundred acres more or less for the consideration
+Stecoe River containing two hundred acres more or less for the consideration
 of one hundred and fifty dollars of which the sd Chapman has paid
 fifty dollars and is to pay the other hundred dollars in four years from
 this date money to be paid in four equal annual instalments first pay-
-ment to be made one hundred till the debt is due the land to be originally
-granted to Frederick Green the title that granted to him by the
-owner of the land being in the State of Georgia Gilmore County.
-Signed and acknowledged in the presence of us, Jackson W. Chapman
+ment to be made one hundred till the sd Wm Con has a right
+to warrant & forever defend the title to the above land to the sd Jackson
+Chapman his heirs and assigns forever against the claims of any person or
+persons whatsoever in the presence of us, Jackson W. Chapman
 Phil Young Elizabeth Young
-State of South Carolina Personally came before me Elizabeth Young who
+
+State of South Carolina. Personally came before me Elizabeth Young who
 Pickens District being duly sworn says that she saw Jackson
-Chapman sign seal and acknowledge the within Mortgage for the
-purpose within mentioned Sworn to & subscribed before me this 25th of
+Chapman sign seal and acknowledge the within Mortgage to the
+effect for the use within mentioned Sworn to & subscribed before me this 25th of
 October 1841. Phil Young J. P. Elizabeth Young
 Recorded the 2d day of January 1844 and examined by
-W. L. Keith C.C.P. M.C.
+W. L. Keith C.C.P.M.C.
 
 Deed of Trust
 State of South Carolina Know all men by these
 Pickens District presents that I Rachel
 Lawrence of the District of Pickens and State afore-
 said for and in consideration of the love and affection which I have
-for and towards, my Grand Daughter Adaline Lawrence wife of
+for and towards, my Grand Daughter, Adaline Lawrence wife of
 Benjamin F. Lawrence and in consideration of other good causes and
-me moving have given granted and by these presents do give grant
-the sum of three dollars to me in hand paid by my son James Lawrence
+the sum of five dollars to me in hand paid by my son James Lawrence
 of the same District and State the receipt and payment whereof is hereby
 acknowledged have given granted bargained sold and delivered and by these
-presents do give and deliver unto the said James Lawrence one superior
+presents give grant and deliver unto the said James Lawrence one superior
 negro slave of property to wit: Eight hundred & fifty dollars in cash have and
-to hold the said Eight hundred & fifty Dollars in cash (and I do
-hereby release all my claim therefrom unto the said James Lawrence and his
-heirs assigns and Executors or Trustees the only special use benefit and
-behoof of the said Adaline Lawrence and her heirs assigns and Executors
-and the only special use benefit and behoof of the Heirs of her body
+to hold the said Eight hundred & fifty dollars in cash (and I do
+hereby release therefrom unto the said James Lawrence and his
+heirs assigns and Executors or Trustees the only specific benefit and
+advantage which said Adaline Lawrence is to have of the said
+estate the only specific and exclusive benefit of the hire of the body
 and it is hereby provided that James Lawrence the above named
 Trustee shall have full power to purchase any lands, slaves or other
-```

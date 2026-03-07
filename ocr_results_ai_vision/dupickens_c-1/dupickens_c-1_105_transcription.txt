@@ -1,26 +1,20 @@
 Source Image: dupickens_c-1_105.jpg
-Transcription Date: 2025-10-23 16:08:00
+Transcription Date: 2026-02-26 16:29:25
 
 Quality Analysis:
 ----------------------------------------
 Image DPI: 834.6
 Review Flags:
 - Missing expected elements: County
+- Found 8 repeated text blocks
 
 ============================================================
 
-```plaintext
-Recorded the 18th day of July 1835 and Examined by me
-                      William L. Tretts C.C. & M. E.
-Jonathan Reeder
-          To
-Benjamin Hagood
-
-The State of South Carolina   } Know all men by these presents
-        Pickens District         } that Jonathan Reeder com-
+To all whom it may concern
+Know ye that Jonathan Reeder com-
 missioner in Equity of the General Assembly of the State to
 select a site for a Court House and to lay out a Town and
-sell the Lots for the best and special use and benefit of the said seven
+sell the Lots for the best and special use and benefit of Seven
 hundred and ninety six dollars to me in hand paid by Benjamin Hagood of Pickens
 in the said State. Have granted bargained and sold released and by these presents
 do grant bargain sell and release unto the said Benjamin Hagood. All those
@@ -32,48 +26,23 @@ and to hold all and singular the premises before mentioned unto the said Benjami
 Hagood his heirs and assigns forever. And I do hereby bind myself and my
 successors in office to warrant and forever defend all and singular the premises
 before mentioned unto the said Benjamin Hagood his heirs and assigns forever
-against myself and my successors in office. An organized plan of the Town of
-Pickens fully clearing up its claims to the same. Witness my hand and seal this
+against myself and my successors in office. Office as aforesaid person whomsoever
+lawfully claiming or to claim the same or any part thereof. Witness my hand
 and seal this twentieth day of March in the year of our Lord one thousand eight
-hundred and thirty four and in the fifty ninth year of American Independence
-                      Jonathan Reeder (Seal)
-Signed
-in presence of
-Samuel L. Reeder Senior Reeder
+hundred and thirty four and in the fifty eighth year of American Independence.
 
-South Carolina   } Personally appeared Samuel L. Reeder and made oath
-Pickens District  } that he saw Jonathan Reeder Commissioner in Equity of the
+Personally appeared Samuel L. Reeder and made oath
+that he saw Jonathan Reeder Commissioner in Equity for the
 State aforesaid sign seal and deliver the within deed of Conveyance to the Benjamin Hagood
-for the use and purposes within mentioned and Senior Reeder with himself in the presence
-of each other witness the due execution of the same. Sworn to this 18th July 1835
-                      Before William L. Tretts C.C.
-Recorded the 18th day of July 1835 and Examined by me
-                      William L. Tretts C.C. & M. E.
+for the use and purposes within mentioned and Lewis Reeder with himself in the presence
+of each other witness the due execution of the same. Sworn to the 18th July 1835
+Before William L. Tretts C.C.
 
-Jeffrey York
-          To
-John Swafford Hays
-
-State of South Carolina   } Know all men by these presents
-        Pickens District         } that I Jeffrey York of
-the said State for and in consideration of the sum of fifty
-dollars to me in hand paid by John Swafford Hays of the State and District
-aforesaid have granted bargained sold and released and by these presents do grant
-bargain sell and release unto the said John Swafford Hays all that
-tract or parcel of land containing one hundred and fifty acres more or less situate
-lying and being in the District of Pickens on the waters of the Saluda River
-bounded by lands of John Swafford Hays and others. Together with all and singular
-the rights members hereditaments and appurtenances to the said premises belonging
-or in any wise incident or appertaining. To have and to hold all and singular
-the premises before mentioned unto the said John Swafford Hays his heirs and assigns
-forever. And I do hereby bind myself my heirs executors and administrators to warrant
-and forever defend all and singular the said premises unto the said John Swafford Hays
-his heirs and assigns against myself my heirs and assigns and all other persons
-lawfully claiming or to claim the same or any part thereof. Witness my hand and
-seal this twelfth day of December in the year of our Lord one thousand eight hundred
-and eighteen and in the forty third year of the Independence of the United States of America
-                      Jeffrey York (Seal)
-Signed
-in presence of
-Samuel L. Reeder Senior Reeder
-```
+State of South Carolina
+Pendleton District. On the 12th day of December 1818 then
+personally appeared before me William L. Tretts one of the Justices of the
+Peace and made oath that he was present and did see the within named Jeffrey York
+sign seal and as his act and deed deliver the within deed of conveyance to the John Swofford Hays
+for the use and purposes within mentioned and Lewis Reeder with himself in the presence
+of each other witness the due execution of the same. Sworn to the 18th July 1835
+Before William L. Tretts C.C.

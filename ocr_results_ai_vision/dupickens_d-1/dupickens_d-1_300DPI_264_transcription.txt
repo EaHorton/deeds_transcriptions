@@ -1,0 +1,68 @@
+Source Image: dupickens_d-1_300DPI_264.jpg
+Transcription Date: 2026-02-26 20:06:31
+
+Quality Analysis:
+----------------------------------------
+Image DPI: 465.8
+Review Flags:
+- Missing expected elements: County
+- Found 2 repeated text blocks
+
+============================================================
+
+State of South Carolina I Anne Lesly Justice of the quorum do hereby certify that 
+Richard Dubose & Margaret Steele the wife of the within named Testator did 
+this day appear before me and after being privately and separately examined 
+by me and declaring that she was freely voluntarily and without any compulsion 
+dread or fear of any person or persons whomsoever renounce release and forever 
+relinquish unto the within named David Morrow his heirs and assigns all her 
+interest and estate and also all her right and claim of Dower of in or to and any 
+of the premises within mentioned and released. Given under my hand and seal 
+this 20th day of March 1840. 
+                                                                                      Margaret Steele
+                                                                                      (SEAL)
+                                                                                      Anne Lesly J.Q.
+
+State of South Carolina Personally appeared William Hewson before me 
+Richard Dubose and made oath in due form of law that he saw Nathaniel Hewitt 
+sign seal and as his act and deed deliver the within paper for the uses 
+and purposes therein mentioned and that he with John H. Gavin in the 
+presence of each other subscribed before me this 20th day of March 1840. 
+                                                                                      William Hewson
+                                                                                      Anne Lesly J.Q.
+Recorded the 17th day of March 1840 and examined by me 
+                                                                                      M. L. Keith C.C. & M.E.
+
+State of South Carolina Know all men by these presents that I 
+Richmond District Nathaniel Hewitt of the State & District 
+aforesaid for and in consideration of the sum of five hundred dollars to me in hand 
+paid by Lucas M. Maddon assignee of Ephraim Anderson & Company and the said 
+Lucas M. Maddon assignee of Ephraim Anderson & Company have bargained sold 
+and delivered and by these presents do bargain sell and deliver unto the said Lucas 
+M. Maddon assignee of Ephraim Anderson & Company one negro girl slave by the name 
+of Patsey Caroline with her increase to have & to hold the said negro girl together 
+with her future increase unto the said Lucas M. Maddon his heirs and assigns forever 
+and I the said Nathaniel Hewitt do hereby bind myself my heirs executors and 
+administrators to warrant and forever defend the said negro girl slave Patsey Caroline 
+and her increase unto the said Lucas M. Maddon his heirs and assigns against all 
+persons whomsoever lawfully claiming or to claim the same or any part thereof. 
+In witness whereof I have hereunto set my hand and seal this 17th day of March 
+in the year of our Lord one thousand eight hundred and forty. 
+                                                                                      Nathaniel Hewitt (SEAL)
+                                                                                      In presence of 
+                                                                                      John H. Gavin
+                                                                                      A. L. Keith
+
+State of South Carolina Personally appeared John H. Gavin before me the subscribing Justice 
+Richmond District and made oath in due form of law that he saw Nathaniel Hewitt 
+sign seal and as his act and deed deliver the within paper for the uses and purposes 
+therein mentioned and that he with William Hewson in the presence of each other 
+subscribed as witnesses to the same. Sworn before me this 17th of March 1840. 
+                                                                                      A. L. Keith J.Q.
+Recorded the 17th day of March 1840 and examined by me 
+                                                                                      M. L. Keith C.C. & M.E.
+
+State of South Carolina Know all men by these presents that I 
+Richmond District Nathaniel Hewitt of the State 
+aforesaid for and in consideration of the sum of five hundred dollars to me 
+```

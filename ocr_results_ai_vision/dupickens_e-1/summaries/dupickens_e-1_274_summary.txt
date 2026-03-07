@@ -1,0 +1,31 @@
+Single Image AI Vision OCR - Processing Summary
+==================================================
+
+Processing Date: 2025-12-16 13:31:46
+Image Processed: dupickens_e-1_274.jpg
+Full Path: /Users/eahorton/Downloads/deeds_unbound/dupickens/dupickens_e-1/images/dupickens_e-1_274.jpg
+Processing Time: 27.99 seconds
+
+Token Usage:
+------------
+Input Tokens:  1,315
+Output Tokens: 554
+Total Tokens:  1,869
+
+Estimated Cost: $0.0149 USD
+
+Model Details:
+--------------
+Model: gpt-4o
+  Input tokens: 1,315
+  Output tokens: 554
+  Cost: $0.0149
+
+Hallucination Detection Results:
+--------------------------------
+Status: ⚠️  NEEDS REVIEW
+Text Length: 2,383 characters
+Image DPI: 640.4
+
+Review Required - Reasons:
+  • Missing expected elements: South Carolina, State of South Carolina, County, sworn

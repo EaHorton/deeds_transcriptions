@@ -1,0 +1,68 @@
+Source Image: dupickens_g-1_300DPI_415.jpg
+Transcription Date: 2026-02-27 16:30:25
+
+Quality Analysis:
+----------------------------------------
+Image DPI: 675.6
+Review Flags:
+- Missing expected elements: County
+- Found 4 repeated text blocks
+
+============================================================
+
+year of the independence of the United States of America
+signed sealed and delivered in presence of
+T. J. Holley
+John H. Rice
+
+The State of South Carolina Personally appeared before me John H. Rice and made oath that he
+the was [sic] John H. Rice saw T. J. Holley sign seal and deliver the within conveyance for
+the uses and purposes therein mentioned and that he the T. J. Holley with himself in the presence
+of each other witnessed the due execution thereof Sworn to before me this 6th day of
+February 1851
+John. W. Rice
+
+The State of South Carolina I John Sharp one of the magistrates of the State do hereby certify unto all
+whom it concerns that Caroline Kelly the wife of the within named T. J. Holley did this day appear before me
+and upon being privately and separately examined by me did declare that she does freely voluntarily
+and without any compulsion dread or fear of any person or persons whomsoever renounce
+release and forever relinquish unto the within named John Sharp his heirs and assigns
+all her interest and estate and also all her right and claim of dower of in or to all and
+singular the premises within mentioned and released Sworn under my hand and seal this 29
+of January Anno Domini 1851
+Caroline Kelly
+John Sharp L. S.
+
+V Mortgage
+The State of South Carolina Know all men by these presents that I Joseph
+Pickens District B. Elye of the state & District aforesaid in
+Consideration of the sum of seven hundred dollars to him in hand
+hath bargained and sold in open market and delivered by these presents doth bargain
+and deliver unto Elisha Griffin of the state and district aforesaid the following named
+negroes to wit one negro Lucy about thirty years old also a bath [sic] named
+Dick and one child slave named Josephine a full one year old To have and to hold all and
+singular the said property unto the said Elisha Griffin his executors administrators
+and assigns forever provided nevertheless and it is expressly agreed between the parties that
+if the said Joseph B. Elye his executors administrators or assigns do well and truly pay or
+cause to be paid unto Elisha Griffin his executors administrators or assigns
+the full sum of seven hundred dollars on or before the first day of January next which will be
+in the year of our Lord (1852) one thousand eight hundred and fifty two and interest on the
+same at the rate of one share cent on the first day of January next then this mortgage to be
+void otherwise to remain in full force and effect Signed sealed and delivered in presence
+of us this twenty third day of January 1851
+Test Wm Hunter
+South Carolina Joseph B. Elye (seal)
+
+Before me personally appeared Wm Hunter and made oath that he
+saw Joseph B. Elye sign seal and deliver the within mortgage for the uses and purposes therein mentioned and that he with
+himself witnessed the same Sworn to before me this 6th day of Feby 1851
+Wm Hunter
+W. S. Keith C. C. H. M. C.
+
+Release For a Press Bond
+State of South Carolina Know all men by these presents that I Nelson Bird
+Pickens District of State and said named for and in
+Consideration of the sum of seventy dollars to me in hand paid by W. L.
+Grisham of the State and district have granted and bargained and sold and released and by
+these presents do grant bargain sell and release unto the said Wm L. Grisham his heirs
+```

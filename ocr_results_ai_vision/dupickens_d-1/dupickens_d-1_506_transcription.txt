@@ -1,60 +1,51 @@
 Source Image: dupickens_d-1_506.jpg
-Transcription Date: 2025-10-23 16:16:37
+Transcription Date: 2026-02-26 16:48:18
 
 Quality Analysis:
 ----------------------------------------
 Image DPI: 426.2
 Review Flags:
-- Missing expected elements: County
-- Found 9 repeated text blocks
+- Missing expected elements: State of South Carolina, County
+- Found 6 repeated text blocks
 
 ============================================================
 
 Know all men by these presents that I Dovia Barton of the State of South
-Carolina & Marion District, in consideration of the natural love and affec-
-tion which I have and bear for my Daughter Mary Haskin and for divers other
-good causes and considerations, especially moving have given, let me to give by these
-presents do give and grant unto the said Mary my negro girl (Sarah) forever
-to have and to hold the said negro girl Sarah unto the said Mary her heirs and
-assigns forever. And I the said Dovia Barton do warrant and forever defend the
-said negro girl Sarah unto the said Mary her heirs and assigns against myself
-and my heirs and against every other person or persons whomsoever claiming
-or to claim the same or any part thereof. In testimony whereof I have hereunto set
-my hand and seal this 5 day of July A.D. 1841.
+Carolina & Pickens District, in consideration of the natural love and affec-
+tion which I have and bear to my Daughter Mary I. Haskin and for divers other
+good causes and considerations, especially moving have given, let me assign by these
+presents do give, grant, assign and confirm unto the said Mary I. Haskin
+one certain tract or track of land containing fifteen acres lying and being in the said
+State & District that I bought of Jos. Haskin and joining my own land on the East and
+land of John Haskin on the West and I do give unto her the above property to her and her
+heirs forever. In witness whereof I have hereunto set my hand and seal this 5th day of July A.D. 1841.
 
 Personally appeared before me Thos W. Haskin
-and made oath that he saw Dovia Barton sign seal and deliver the within deed of
-Gift for the use and purposes therein mentioned and that Henry Haskin and Sarah
-W. Haskin was subscribing witnesses with himself. Sworn to before me this 21st day of March
-1842 Wm. E. Martin
+and made oath that he saw Dovia Barton sign and deliver the within deed of
+Gift for the use and purposes therein mentioned and that Henry Haskin and Jacob
+Haskin was subscribing witnesses with himself. Sworn to before me this 7th day of March
+1842. W. H. D. Gaillard
 
 South Carolina. Know all men by these presents that I Jaban
-Mauldin of Marion District, in consideration of the natural love and affection
-I have for my son Moseley Mauldin and for divers other good causes and
-considerations me hereunto moving have given and granted and by these presents, do
-grant bargain sell and release for and in consideration of the sum
-of Two hundred and thirty eight dollars to me in hand paid by Moseley Mauldin all
-that well parcel of land situate in Pickens District on waters of Twelve
-Mile Creek, State of South Carolina, containing eighty acres more or less beginning on a pine
-on lands of John Childress lower line thence N. 30 E. 20 to a stake thence S. 60 E. 20 to a
-corner on a black jack S. 30 W. 27 to a conditional corner thence nearly east to a corner
-near the branch thence south east to a rock corner thence south east to a dogwood
-thence nearly east to a stake corner on a post oak, thence along the old line to a stake
-on a post oak corner thence along the aforesaid nearly east to John Childress line thence
-along said line to the beginning. Together with all and singular the rights
+Mauldin of Pickens District & State aforesaid in consideration of the sum of
+four hundred and thirty eight dollars to me in hand paid by Moseley Mauldin all
+that well parcel of land situate lying in Pickens District and State of South
+Carolina, containing eighty acres more or less beginning on a pine
+on John Childers line thence N 70 W 20 to a stake on the branch thence down said branch
+to a stake at Black Jack & S 30 W 7 to a conditional corner thence nearly east to a sourwood
+near the branch thence South east to a Rock corner thence South east to a dogwood
+thence nearly east to a white oak near a gap of a fence thence along the gap to a stake
+on a line of fence thence along the fence nearly east to John Childers line thence
+along said line to the beginning Together with all and singular the rights
 members hereditaments and appurtenances thereunto belonging or in anywise
 incident or appertaining. To have and to hold all and singular the said premises unto
-the said Moseley Mauldin his heirs Executors Administrators or assigns forever. And
-I do hereby bind myself my heirs Executors Administrators and assigns forever and
-warrant and forever defend the said premises unto the said Moseley Mauldin his heirs
-assigns or any person or persons lawfully
-claiming or to claim the same or any part thereof. In testimony whereof I have
+the said Moseley Mauldin his heirs Executors administrators or assigns forever. And
+I do hereby bind myself my heirs Executors administrators and assigns forever and
+against any person or persons lawfully claiming or to claim the same or any part thereof. In testimony whereof I have
 hereunto set my hand and seal this 10th day of August eighteen hundred and forty
-one. Forty six years of the Independence of the United States of
-America. Signed sealed and delivered in presence of us
+one. Signed sealed and delivered in presence of us
 
-Personally came before me John Lesly before me the subscribing Magistrate and
-made oath that he saw Jaban Mauldin sign seal and deliver the within deed of
-conveyance for the use and purposes therein mentioned and that he with George and Delaney
-Hamilton in the presence of each other did witness the due execution of the same.
-```
+Personally came John Lesly before me the subscribing Magistrate and
+made oath that he saw the within deed of conveyance signed sealed and delivered
+by Jaban Mauldin for the use and purposes therein mentioned and that Right Childers with
+himself was a subscribing witness to the due execution of the same.

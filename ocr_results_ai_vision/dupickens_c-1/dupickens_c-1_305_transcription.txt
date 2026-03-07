@@ -1,5 +1,5 @@
 Source Image: dupickens_c-1_305.jpg
-Transcription Date: 2025-10-23 16:08:28
+Transcription Date: 2026-02-26 16:29:48
 
 Quality Analysis:
 ----------------------------------------
@@ -9,35 +9,34 @@ Review Flags:
 
 ============================================================
 
-```plaintext
 254
 State of South Carolina  I William L. Keith Clerk of the Court and Escheator
 Pickens District  one of the Justices of the Quorum for the District aforesaid
 Do hereby certify unto all whom it may concern, that Mary Head the wife of the
-within mentioned Henry Head this day appeared before me and upon being by
-me privately and separately examined as to her, whether she doth freely voluntarily
+above mentioned Henry Head this day appeared before me and upon being by
+me privately and separately examined did declare, that she does freely voluntarily
 and without any compulsion dread or fear of any person or persons whomsoever
 freely voluntarily renounce release and forever relinquish unto the before men-
-tioned Jospeh Dickson his heirs and assigns all her interest and
+tioned John A. Graham and Joseph Graham their heirs and assigns all her interest and
 Estate, and also all her right, and Claim of Dower, of, in or to all and singular the
 premises within and before mentioned and released
-Mary x Head
-her mark
+Mary her x Head
+(Seal)
 Given under my hand and seal this Eleventh day of January in the year
 of our Lord one thousand eight hundred and thirty seven
 William L. Keith (Seal)
 C.C. & Esch. D.C.
 
-South Carolina  Personally appeared John C. Dickson and made
+South Carolina  Personally appeared John C. Graham and made
 Pickens District  oath that he was present and did see Henry Head sign seal
 and deliver the within deed of Conveyance for the uses and purposes within ex-
-pressed and that he did see Morton L. L. Stokes with Henry witness
+pressed and that he did see Morton L. L. Stokes with the other witness sign
 the execution of the same in presence of each other sworn to this 11th day of
 January 1837
-John C. Dickson
+John C. Graham
 Before me W. L. Keith C.C.
 Recorded the 11th day of January 1837 and Examined by me
-W. L. Keith C.C. & R.M.C.
+W. L. Keith C.C. & H.M.C.
 
 John Harrison
 To
@@ -51,17 +50,15 @@ affection which I have and bear towards my loving daughter Selah Robinson of the
 said State and District have given and granted and by these presents do give and grant
 unto the said Selah Robinson her heirs Executors and administrators one negro girl
 named Rhody out of my Estate freely forever and the said Selah Robinson her heirs
-and assigns to hold and enjoy the said girl Rhody as her own right and property
-to her the said Selah Robinson before the signing and delivery of the said girl to have and
+and assigns to hold possess and enjoy the said girl Rhody as their own proper
+right to the said Selah Robinson before the signing and delivery of the said to have and
 to hold the said Rhody to the said Selah Robinson her heirs Executors and Administrators
 from henceforth as their proper right absolutely without any manner of condition
-In witness whereof I have hereunto set my hand and seal this twenty eighth day of November in the year of
+In witness whereof I have hereunto set my hand and seal this twenty fifth day of November in the year of
 our Lord one thousand eight hundred and thirty five
 Test John Stokes
-John Harrison
-
-South Carolina  This day personally appear John Adair before me and made
+John his x Harrison
+South Carolina  This day personally appeared John Stokes before me and made
 Pickens District  oath that he was present and saw the within deed signed
 sealed delivered for the within named purposes 16th January 1837
-Before me John Bursdine J.P.  John Adair
-```
+Before me John Bauskine J.P.  John Stokes

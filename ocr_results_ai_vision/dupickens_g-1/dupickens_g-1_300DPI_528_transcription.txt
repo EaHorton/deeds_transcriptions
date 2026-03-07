@@ -1,0 +1,66 @@
+Source Image: dupickens_g-1_300DPI_528.jpg
+Transcription Date: 2026-02-27 16:41:48
+
+Quality Analysis:
+----------------------------------------
+Image DPI: 690.4
+Review Flags:
+- Missing expected elements: County
+- Found 3 repeated text blocks
+
+============================================================
+
+                  Deed of Gift
+The State of South Carolina  Know all men by these presents
+     Pickens District  That I John Swafford of Pickens
+District and State aforesaid for and in consideration of the natural
+love and affection I bear and entertain for and towards my Grand Son John
+M. Alexander of the same State and District aforesaid and also for and in consideration
+of the sum of one dollar to me in hand paid by the said John M. Alexander at and
+before the sealing and delivery hereof the receipt whereof is hereby acknowledged
+have given granted bargained and conveyed and by these presents do
+give grant bargain sell and convey unto the said John M. Alexander
+his heirs and assigns the following Slaves to wit one boy Jim eleven years
+old one girl Hett eight years old one girl named Harriet Eight years of age
+To have and to hold the said Slaves Jim and Harriet hereby given granted
+bargained and sold unto the said John M. Alexander his heirs and assigns to the
+only proper use of the said John M. Alexander his heirs and assigns forever, upon
+the express condition however that it is hereby understood and agreed by and
+between the said parties herein mentioned that the possession and enjoyment
+of the said Slaves Jim and Harriet shall remain and continue with the said John
+Swafford during his natural life. In testimony whereof I have hereunto set my
+hand and seal this third day of October A. D. Eighteen hundred and fifty four
+and sealed and delivered in presence of
+
+Geo. S. Swafford
+The State of South Carolina  Personally appeared before me George Swafford and made
+Pickens District  oath that he was present and saw John Swafford sign
+seal and deliver the within conveyance for the uses and purposes therein specified
+and that he with John Swafford witnessed the due execution of the same
+Sworn and subscribed before me this 7th November 1854
+Recorded in the Pickens District
+Recorded this 8th day of Novr 1854 and examined by W. L. Keith C. C. P. & R. M. C.
+
+This Indenture made the twenty third
+day of September in the year one thousand eight
+hundred and fifty four between Joseph P. Black Junior of the one part
+and John M. E. Sharp of the other part. Witnesseth that the said Joseph P.
+Black Junior is indebted to the said John M. E. Sharp in the sum of fourteen
+hundred and eighty seven dollars and for the better securing the payment of the
+same and for and in consideration of the sum of one dollar to the said Joseph P. Black
+in hand paid by the said John M. E. Sharp at and before the sealing and delivery of these
+presents and payable twenty months hereafter with interest from date at the rate of
+four months interest in advance. That the said Joseph P. Black Junior for and
+in consideration of the sum of one dollar to him in hand paid by the said John M. E. Sharp
+according to the payment agreed to be made indorsed hereon according to the terms
+of the said agreement and for the better securing the payment of the sum of fourteen
+hundred and eighty seven dollars to the said Joseph P. Black Junior in hand paid
+by the said John M. E. Sharp at and before the sealing and delivery of these presents
+and receipt whereof is hereby acknowledged hath granted bargained sold and released
+and by these presents doth grant bargain sell and release unto the said John M. E. Sharp
+all that plantation or tract of land situate lying and being in the District and
+real estate of Joseph P. Black according to the said agreement and for the better
+securing the payment of the sum of fourteen hundred and eighty seven dollars
+that is for and on the waters of Taylor River and on the waters of the
+composed of several different tracts amounting in all to four thousand acres more
+```
